@@ -1,5 +1,5 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-- Team introduce
+- [Team introduction]()
 - Daily homework
   - [1. PM]()
     - [how to build web](class/1pm/1pm-web.md)
