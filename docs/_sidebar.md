@@ -2,7 +2,7 @@
 - INTRODUCTION
   - [What is N](INTRO/WIN.md)
   - [Members](INTRO/Members.md)
-    
+  
 - [DAILY TASKS]()
 - [PROJECT MANAGEMENT]()
   - [1. STARTUP]()
