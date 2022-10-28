@@ -1,8 +1,8 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - INTRODUCTION
   - [What is N](INTRO/WIN.md)
-  - [Members](INTRO/Members.md)
-  
+  - [Members][](INTRO/Members.md)
+    
 - [DAILY TASKS]()
 - [PROJECT MANAGEMENT]()
   - [1. STARTUP]()
