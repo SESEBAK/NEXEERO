@@ -1,4 +1,10 @@
 <!-- 侧边栏 docs/_navbar.md -->
-[VISION]()
+[VISION](INTRO/NAVBAR/Vision.md)
+
+
+
 [TEAM](INTRO/NAVBAR/Team.md)
-[CONTACT]()
+
+
+
+[CONTACT](INTRO/NAVBAR/Contact.md)
