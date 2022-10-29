@@ -1,20 +1,18 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-- INTRODUCTION
-  - [What is N](INTRO/WIN.md)
-  - [Members][](INTRO/Members.md)
-    
-- [DAILY TASKS]()
-- [PROJECT MANAGEMENT]()
+- PROJECT MANAGEMENT
   - [1. STARTUP]()
     - [How to build web]()
-    - [Design C&D]()
+    - [Daily tasks]()
+    - [Challenges]()
   - [2. arduino basic]()
   - [3. CAD]()
   - [4. 3D printing]()
-- [Final project]()
-  - Topic
-  - Innovation
-  - Market
-  - How to design 
-  - How to make
+
+- FINAL PROJECT
+  - [Topic]()
+  - [Innovation]()
+  - [Market]()
+  - [Design C&D]()
+   - How to Design
+   - How to make
   - SDGs

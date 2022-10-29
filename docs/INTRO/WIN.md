@@ -1,1 +1,0 @@
-NEXEERO is a group whose vision 
