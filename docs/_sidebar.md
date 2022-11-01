@@ -2,10 +2,9 @@
 - PROJECT MANAGEMENT
   - [1. STARTUP]()
     - [How to build web]()
-    - [Daily tasks]()
-    - [Challenges]()
-  - [2. arduino basic]()
-  - [3. CAD]()
+    - [FAQ]()
+  - [2. CAD]()
+  - [3. Arduino Basic]()
   - [4. 3D printing]()
 
 - FINAL PROJECT
@@ -13,6 +12,6 @@
   - [Innovation]()
   - [Market]()
   - [Design C&D]()
-   - How to Design
-   - How to make
+   - [How to Design]()
+   - [How to make]()
   - SDGs
