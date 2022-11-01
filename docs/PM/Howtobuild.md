@@ -20,7 +20,7 @@
 
  ![](../IMAGE/repository%20link.png)
 
-### LOCAL SETTINGS
+### Step 3: LOCAL SETTINGS
 
  1. Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code.
  2. In VS Code, Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page.
