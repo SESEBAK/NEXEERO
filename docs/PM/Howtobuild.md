@@ -101,14 +101,14 @@
  #### 6. Write your document and save all the document.
 
  #### 7. Image Upload
-    We created an Image folder in docs where we stored all the pictures and we would drag and drop them into the document.
+ We created an Image folder in docs where we stored all the pictures and we would drag and drop them into the document.
 
-    ![](../IMAGE/Image%20upload.png)
+ ![](../IMAGE/Image%20upload.png)
 
-### Step 4: UPLOAD DOCUMENT
-    Use github desktop to upload new information by changing the branch's fold from root to docs.
+ ### Step 4: UPLOAD DOCUMENT
+ Use github desktop to upload new information by changing the branch's fold from root to docs.
 
-    ![](../IMAGE/docs.png)
+ ![](../IMAGE/docs.png)
 
 
  ## REFERENCES 

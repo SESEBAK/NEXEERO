@@ -3,12 +3,12 @@
   - [1. STARTUP]()
     - [How to build web](PM/Howtobuild.md)
     - [FAQ](PM/faq.md)
-  - [2. CAD DESIGN]()
-    - [Installation](PM/CAD/installcad.md)
-    - [Practice](PM/CAD/practicecad.md)
-  - [3. ARDUINO BASIC]()
-  - [4. 3D PRINTING]()
-
+  - [2. PRACTICES]()
+    - [Fusion 360](PM/CAD/installcad.md)
+    - [3D Printing](PM/CAD/practicecad.md)
+    - [Laser Cutting]()
+    - [Arduino Basic]()
+    
 - FINAL PROJECT
   - [Topic]()
   - [Innovation]()
