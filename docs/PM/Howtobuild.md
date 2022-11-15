@@ -3,7 +3,7 @@
 ### Step 1: GET THE TOOLS
  Installing all the necessary tools to build the webpage:
 
-    - Git; We used git to control our version in gitlab
+    - [Git](https://git-scm.com/downloads); We used git to control our version in gitlab
     - Github; We used github as a servicer for our webpage
     - Github desktop; We used github desktop to transport or push our coding from local to github
     - VScode; We used the visual studio code to write down our documents
@@ -26,6 +26,7 @@
  2. In VS Code, Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page.
     We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal option and create a new terminal. Then install doscsify.
 
+
  #### 3.  Install docsify
       1. Enter the following command first "npm i docsify-cli -g"
 
@@ -39,6 +40,7 @@
      4. Enter the following in cmd.exe: docsify serve docs
      
      5. Then open browser to visit http://localhost:3000, you will get a initial website.
+
 
  #### 4. Setting up index.html
   <!DOCTYPE html>
@@ -76,29 +78,40 @@
      </body>
      </html>
 
- #### 5.  Add navbar and sidebar
+ #### 5.  Add sidebar and navbar
      for sidebar 
               <!-- 侧边栏 docs/_sidebar.md -->
-      - Team introduce
-      - Daily homework
-      - [1. PM]()
-      - [how to build web](class/1pm/1pm-web.md)
-      - introduce team
-      - introduce finial project
-      - [2. arduino basic]()
-      - [3. CAD]()
-      - [4. 3D printing]()
-     - Final project
-      - topic
-      - innovation
-      - market
-      - how to design 
-      - how to make
-      - SDGs
+               - Team introduce
+               - Daily homework
+               - [1. PM]()
+               - [how to build web](class/1pm/1pm-web.md)
+               - introduce team
+               - introduce finial project
+               - [2. arduino basic]()
+               - [3. CAD]()
+               - [4. 3D printing]()
+               - Final project
+               - topic
+               - innovation
+               - market
+               - how to design 
+               - how to make
+               - SDGs
 
  #### 6. Write your document and save all the document.
 
- #### 7. UPLOAD
-   Use github desktop to upload new information change the branch's fold from root to new fold
-   ![](../IMAGE/Upload.png)
-  
+ #### 7. Image Upload
+    We created an Image folder in docs where we stored all the pictures and we would drag and drop them into the document.
+
+    ![](../IMAGE/Image%20upload.png)
+
+### Step 4: UPLOAD DOCUMENT
+    Use github desktop to upload new information by changing the branch's fold from root to docs.
+
+    ![](../IMAGE/docs.png)
+
+
+ ## REFERENCES 
+ - https://docsify.js.org/#/?id=docsify
+ - https://blog.csdn.net/Mark_md/article/details/121457115
+ - https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
