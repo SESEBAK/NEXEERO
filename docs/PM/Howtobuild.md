@@ -3,13 +3,13 @@
 ### Step 1: GET THE TOOLS
  Installing all the necessary tools to build the webpage:
 
-    - [Git](https://git-scm.com/downloads); We used git to control our version in gitlab
-    - Github; We used github as a servicer for our webpage
-    - Github desktop; We used github desktop to transport or push our coding from local to github
-    - VScode; We used the visual studio code to write down our documents
-    - Nodejs; We used it to build the environment
-    - Markdown language; We used the Markdown language to write documents
-    - Image upload servive, We used Picgo to storage our image on cloud, in our case in gitlab and used in markdown document,
+    
+- [Git](https://git-scm.com/downloads); We used git to control our version in gitlab
+- [Github](https://about.gitlab.com/); We used github as a servicer for our webpage
+- [Github desktop](https://www.gitbook.com/); We used github desktop to transport or push our coding from local to github
+- [VScode](https://code.visualstudio.com/); We used the visual studio code to write down our documents
+- [Nodejs](https://nodejs.org/en/); We used it to build the environment
+- [Markdown language](https://www.nexmaker.com/doc/1projectmanage/markdown.html); We used the Markdown language to write documents
 
 ### Step 2: SET THE PAGE
  Create a repository: go on github.com and after signing up, create your repository. Keep it Public so that anyone on the internet can have access to it and add a README file to it cause that's where you can write a long description for your project. 
@@ -112,6 +112,5 @@
 
 
  ## REFERENCES 
- - https://docsify.js.org/#/?id=docsify
- - https://blog.csdn.net/Mark_md/article/details/121457115
- - https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages
+ - [Nexmaker](https://www.nexmaker.com/)
+ - [Docsify](https://docsify.js.org/#/?id=docsify)
