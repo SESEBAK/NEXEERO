@@ -67,7 +67,7 @@
                             <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
                         </ul>
                         <div class="team-content">
-                            <h3 class="title">Lerato LESOANA</h3>
+                            <h3 class="title">Lerato LESAOANA</h3>
                             <span class="post"> Team Researcher</span>
                             <p class="description">
                                   i am  Lerato  Lesaoana,  a  BCOMM  degree  graduate  from  the  National  University  of  Lesotho (Lesotho) and International Business from Beijing Foreign Studies University (China). Currently I am a full time Master’s degree in Industrial Design Engineering at Zhejiang University, because I  wanted  to  add value to  my life  and  acquire  knowledge  with  the  insights  in  design  planning, optimization  of  production  and  manufacturing  processes. Although my  undergraduate  and graduate programs are different, I am fascinated by the fact that IDE places graduates and product design experts in the line with the contemporary technology and innovation starting from a solid tradition on creativity and methods of production.

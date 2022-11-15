@@ -1,14 +1,14 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - PROJECT MANAGEMENT
-  - [1. STARTUP]()
+  - 1. STARTUP
     - [How to build web](PM/Howtobuild.md)
     - [FAQ](PM/faq.md)
-  - [2. PRACTICES]()
+  - 2. PRACTICES
     - [Fusion 360](PM/CAD/installcad.md)
-    - [3D Printing](PM/CAD/practicecad.md)
+    - [3D Printing](PM/3dprinting/3dpractice.md)
     - [Laser Cutting]()
     - [Arduino Basic]()
-    
+
 - FINAL PROJECT
   - [Topic]()
   - [Innovation]()
