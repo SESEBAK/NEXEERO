@@ -78,7 +78,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="images/img-2.jpg" alt=""/>
+                            <img src="IMAGE/hamzah.JPG" alt=""/>
                         </div>
                         <ul class="social">
                             <li><a href="#"><i class="fab fa-facebook"></i></a></li>
