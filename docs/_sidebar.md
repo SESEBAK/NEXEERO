@@ -3,7 +3,7 @@
   - [1. HOW TO BUILD WEB]()
      - [GitHub page](PM/Howtobuild/githubpage.md.md)
      - [FAQ](PM/Howtobuild/faq.md)
-     - [Team set up](PM/Howtobuild/teamsetup.md)
+     - [Other Options](PM/Howtobuild/OtherOptions.md)
   - [2. CAD DESIGN]()
     - [Fusion 360](PM/CAD/installcad.md)
     - [Practices](PM/CAD/practicecad.md)
