@@ -17,9 +17,9 @@
 
 - [FINAL PROJECT]
   - [Topic](FINALPROJECT/topic.md)
-  - [Market]()
-  - [Innovation]]()
-  - [Design CAD]()
-   - [How to Design]()
-   - [How to make]()
-  - [3D Printing]()
+  - [Market](FINALPROJECT/market.md)
+  - [Innovation](FINALPROJECT/innovation.md)
+  - Design CAD
+    - How to Design
+    - How to make
+  - 3D Printing

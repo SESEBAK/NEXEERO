@@ -1,8 +1,8 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - GESTION DE PROJET
-  - [1. COMMENT CONSTRUIRE LE WEB](/PM/Howtobuild/githubpage.md)
+  - [1. COMMENT CONSTRUIRE LE WEB](FRENCH/PM/Howtobuild/githubpage.md)
   - [2. CONCEPTION CAD]()
-    - [Fusion 360](/docs/FRENCH/PM/CAD/installcad.md)
+    - [Fusion 360](FRENCH/PM/CAD/installcad.md)
     - [Pratiques](FRENCH/PM/CAD/practicecad.md)
   - [3. IMPRESSION EN 3D]()
     - [Théorie](FRENCH/PM/3dprinting/theory.md)
