@@ -212,7 +212,7 @@
    + FullyQualifiedErrorId : CommandNotFoundException
 
    <br>
-   <img style="float: center;" width=700 src="IMAGE/owbsiqer.png">
+   <img style="float: center;" width=700 src="IMAGE/owbsiqer.bmp">
 
     ### 解决方案：验证上面的路径
 

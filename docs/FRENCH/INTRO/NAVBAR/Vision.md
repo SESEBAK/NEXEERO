@@ -2,4 +2,4 @@
 
 
 <br>
- <video style="float: center;" width=700 src="VIDEOS/vid2.mp4">
+ <video style="float: center;" width=900 src="VIDEOS/vid2.mp4">

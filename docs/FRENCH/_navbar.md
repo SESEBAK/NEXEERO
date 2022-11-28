@@ -1,9 +1,9 @@
 <!-- 侧边栏 docs/_navbar.md -->
-- [VISION](/docs/FRENCH/INTRO/NAVBAR/Vision.md)
+- [VISION](FRENCH/INTRO/NAVBAR/Vision.md)
 
 
 
-- [EQUIPE](/docs/FRENCH/INTRO/NAVBAR/Team.md)
+- [EQUIPE](FRENCH/INTRO/NAVBAR/Team.md)
 
 
 

@@ -213,7 +213,7 @@ ouvre l'Index file va a window.$docsify puis ajoute
    + FullyQualifiedErrorId : CommandNotFoundException
 
    <br>
-   <img style="float: center;" width=700 src="IMAGE/owbsiqer.png">
+   <img style="float: center;" width=700 src="IMAGE/owbsiqer.bmp">
 
      ### SOLUTION : Vérifiez le chemin ci-dessus
 

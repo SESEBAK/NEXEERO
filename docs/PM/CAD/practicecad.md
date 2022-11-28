@@ -12,6 +12,9 @@ Our second adventure into Fusion was designing a book shelf.
 ### 3. PEN HOLDER
 We then went ahead to explore some more options of the software by designing a pen holder.
 
+<br>
+ <img style="float: center;" width=700 src="IMAGE/penholder.png">
+
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43a3ce1aaa54da8bdd?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### 4. GROOVED KNOB
@@ -22,8 +25,8 @@ We then went ahead to explore some more options of the software by designing a p
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4382a496913e3de4c2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# DETAILED WORK
-Our detailed work is a bicycle. 
+# DETAILED WORKS
+Our 1ST detailed work is a bicycle. 
 
 <br>
  <img style="float: center;" width=700 src="IMAGE/bic1.png">
@@ -50,3 +53,18 @@ Your browser does not support the video tag.
  <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430f037449c3220f52?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
+ Our 2nd detailed work is a door hinge
+
+<br>
+ <img style="float: center;" width=700 src="IMAGE/hing1.png">
+
+<br>
+ <img style="float: center;" width=700 src="IMAGE/hing2.png"> 
+
+
+<br>
+<video style="float:center;" width="720" height="340" controls autoplay="autoplay">
+  <source src="VIDEOS/hinge.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 

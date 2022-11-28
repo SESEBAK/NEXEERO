@@ -1,5 +1,9 @@
-# OUR TOPIC
-L'un des moyens de résoudre la faim dans le monde consiste à augmenter la production agricole.
-En tant que groupe Nexeero, notre objectif est de contribuer au projet Faim Zéro en apportant des solutions à certains problèmes agricoles comme l'irrigation, auxquels sont confrontés les pays les moins avancés.
-Certaines des idées que nous avions étaient d'innover ou d'améliorer certains des dispositifs utilisés dans l'agriculture, dans la micro-irrigation par exemple. Surtout les arroseurs agricoles. Nous voulons examiner comment nous pouvons les innover de manière à ce qu'ils soient facilement accessibles aux plus modestes, contribuant ainsi à améliorer les problèmes d'irrigation des PMA.
+# OUR TOPIC: SPRINKLER IRRIGATION
+
+One of the ways to Solve World Hunger is by increasing Agricultural Output.
+As Nexeero Group, our goal is to contribute to the Zero Hunger Project by bringing solutions to some agriculture issues like Irrigation, faced by Least developed countries. 
+
+From that common goal we came to a decision of designing or better some of the devices used in agricultureespecially in micro-irrigation like agriculture sprinklers. We want to look at how we can innovate them in a way that they can be highly effective, easily accessible by the lowly hence helping in bettering LDCs irrigation issues.
+
+
 ![](../IMAGE/sprinkler.webp)
