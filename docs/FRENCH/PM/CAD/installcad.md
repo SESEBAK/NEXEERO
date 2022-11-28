@@ -1,14 +1,13 @@
 # [Click Here for a full tutorial on How to Install Fusion360](https://www.nexmaker.com/doc/2cad/Fusion360prepare.html)
 
-# Fusion 360 prepare
-### 1. What's Fusion 360
-Fusion 360 is a cloud-based CAD/CAM/CAE tool for collaborative product development. Fusion 360 combines fast and easy organic modeling with precise solid modeling, allowing you to make your designs manufacturable. Last but not least, With the help of Eagle,Fusion has the function of Electromechanical.
+### 1. Qu'est-ce que Fusion 360
+Fusion 360 est un outil de CAO/FAO/IAO basé sur le cloud pour le développement collaboratif de produits. Fusion 360 combine une modélisation organique rapide et facile avec une modélisation solide précise, vous permettant de rendre vos conceptions manufacturables. Enfin et surtout, avec l'aide d'Eagle, Fusion a la fonction d'électromécanique.
 
-### 2. Link
-[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can sign autodesk account and download fusion 360 software
+### 2. Lien
+[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). Vous pouvez vous connecter au compte autodesk et télécharger le logiciel fusion 360
 
-### 3. Install
-Open fusion 360 software package and click run(Mac will direct install software). It will last several minutes to download data and install it .You just need wait for finish
+### 3. Installer
+Ouvrez le progiciel Fusion 360 et cliquez sur Exécuter (Mac installera directement le logiciel). Il faudra plusieurs minutes pour télécharger les données et les installer. Il vous suffit d'attendre la fin
 
-### you can now open Fusion360.
+### vous pouvez maintenant ouvrir Fusion360.
 

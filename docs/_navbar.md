@@ -7,4 +7,6 @@
 
 
 
-- [LANGUAGE]()
+- LANGUAGE
+   - [FRENCH](/FRENCH/)
+   - [CHINESE](/CHINESE/)

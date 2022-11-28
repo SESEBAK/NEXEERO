@@ -1,56 +1,75 @@
-# HOW TO BUILD 
+## A. COMMENT CONSTRUIRE
 
-### Step 1: GET THE TOOLS
- Installing all the necessary tools to build the webpage:
+  ### Étape 1 : OBTENEZ LES OUTILS
+ Installation de tous les outils nécessaires pour créer la page Web :
 
     
-- [Git](https://git-scm.com/downloads); We used git to control our version in gitlab
-- [Github](https://about.gitlab.com/); We used github as a servicer for our webpage
-- [Github desktop](https://www.gitbook.com/); We used github desktop to transport or push our coding from local to github
-- [VScode](https://code.visualstudio.com/); We used the visual studio code to write down our documents
-- [Nodejs](https://nodejs.org/en/); We used it to build the environment
-- [Markdown language](https://www.nexmaker.com/doc/1projectmanage/markdown.html); We used the Markdown language to write documents
+- [Git](https://git-scm.com/downloads) ; Nous avons utilisé git pour contrôler notre version dans gitlab
+- [Github](https://about.gitlab.com/) ; Nous avons utilisé github comme serveur pour notre page Web
+- [bureau Github] (https://www.gitbook.com/) ; Nous avons utilisé le bureau github pour transporter ou pousser notre codage de local à github
+- [VScode](https://code.visualstudio.com/); Nous avons utilisé le code Visual Studio pour écrire nos documents
+- [Nodejs](https://nodejs.org/en/); Nous l'avons utilisé pour construire l'environnement
+- [Langage Markdown](https://www.nexmaker.com/doc/1projectmanage/markdown.html) ; Nous avons utilisé le langage Markdown pour écrire des documents
 
-### Step 2: SET THE PAGE
- Create a repository: go on github.com and after signing up, create your repository. Keep it Public so that anyone on the internet can have access to it and add a README file to it cause that's where you can write a long description for your project. 
+  ### Étape 2 : DÉFINIR LA PAGE
+ Créez un référentiel : rendez-vous sur github.com et après vous être inscrit, créez votre référentiel. Gardez-le public afin que n'importe qui sur Internet puisse y avoir accès et ajoutez-y un fichier README car c'est là que vous pouvez écrire une longue description de votre projet.
 
-![Alt text](../../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/1step.jpg)
+<br>
+<img style="float: center;" width=700 src="IMAGE/createrepository.png">
 
- NOTE: Open the repository go to settings, pages under branch select the main source to enable Github pages for this repository and under folder select root and save(Attention; you selected root folder because you havn't yet installed a docs folder for this repository, therefore you will have to change this setting later). After saving you will get your repository link.
 
- ![](../IMAGE/repository%20link.png)
+ REMARQUE : Ouvrez le référentiel, accédez aux paramètres, les pages sous la branche sélectionnez la source principale pour activer les pages Github pour ce référentiel et sous le dossier, sélectionnez racine et enregistrez (Attention ; vous avez sélectionné le dossier racine car vous n'avez pas encore installé de dossier docs pour ce référentiel , vous devrez donc modifier ce paramètre ultérieurement). Après avoir enregistré, vous obtiendrez le lien de votre référentiel.
 
-### Step 3: LOCAL SETTINGS
+<br>
+<img style="float: center;" width=700 src="IMAGE/repositorylink.png">
 
- 1. Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code.
+  ### Étape 3 : PARAMÈTRES LOCAUX
 
- ![](../IMAGE/clone.png)
+   ### 1. Bureau Github
 
- 2. In VS Code, Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page.
-    We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal option and create a new terminal. Then install doscsify.
+  Ouvrez le bureau Github, clonez votre référentiel créé précédemment et ouvrez-le dans Visual Studio Code.
 
-  ![Alt text](../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/newterminal.png)
+<br>
+<img style="float: center;" width=700 src="IMAGE/clone.png">
 
- #### 3.  Install docsify
-      1. Enter the following command first "npm i docsify-cli -g"
 
-      ![Alt text](../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/docsify.png)
 
-      2. Make sure the position and then initialize environment with "docsify init ./docs"
+  ### 2. Code contre
 
-      3. After successful initialization, you can see several files created in the directory：
-        index.html: Entry File.
-        README.md: It will be rendered as the homepage content.
-        .nojekyll: Is Used to prevent GitHub Pages from ignoring files that begin with an underscore.Preview
+  Dans VS Code, ajoutez le mot "Hello" au fichier README.md, enregistrez tout et utilisez le bureau github pour valider et pousser vers la page Web.
+    Nous utilisons la méthode Docsify pour construire la structure, sous la barre de menu vscode ouvrez l'option Terminal et créez un nouveau terminal. Ensuite, installez doscsify.
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/newterminal.png">
+
+
+   ### 3. Install Docsify
+ - Entrez d'abord la commande suivante "npm i docsify-cli -g"
+
+<br>
+<img style="float: center;" width=600 src="IMAGE/docsify.png">
+
+
+  - Assurez-vous de la position puis initialisez l'environnement avec "docsify init ./docs"
+
+  - Après une initialisation réussie, vous pouvez voir plusieurs fichiers créés dans le répertoire：
+       index.html : fichier d'entrée.
+    
+       README.md : il sera rendu comme le contenu de la page d'accueil.
+       .nojekyll : est utilisé pour empêcher les pages GitHub d'ignorer les fichiers commençant par un trait de soulignement.Aperçu
         
-     4. Enter the following in cmd.exe: docsify serve docs
+  - Entrez ce qui suit dans cmd.exe : docsify serve docs
 
-     ![Alt text](../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/doc2.png)
+  <br>
+<img style="float: center;" width=600 src="IMAGE/doc2.png">
+
+
      
-     5. Then open browser to visit http://localhost:3000, you will get a initial website.
+  - Ouvrez ensuite le navigateur pour visiter http://localhost:3000, vous obtiendrez un site Web initial.
 
 
- #### 4. Setting up index.html
+   ### 4. Configurer Index.html
+
   <!DOCTYPE html>
      <html lang="en">
      <head>
@@ -86,8 +105,8 @@
      </body>
      </html>
 
- #### 5.  Add sidebar and navbar
-     for sidebar 
+   ### 5. Ajouter une barre latérale et une barre de navigation
+  - SIDEBAR 
               <!-- 侧边栏 docs/_sidebar.md -->
                - Team introduce
                - Daily homework
@@ -106,26 +125,172 @@
                - how to make
                - SDGs
 
- #### 6. Write your document and save all the document.
+ - ouvrez le fichier Index allez dans window.$docsify puis ajoutez
 
- #### 7. Image Upload
- We created an Image folder in docs where we stored all the pictures and we would drag and drop them into the document.
+              loadSidebar: true,
 
- ![](../IMAGE/Image%20upload.png)
+ - Barre latérale pliable
+pour rendre votre barre latérale pliable, il vous suffit d'ajouter ces éléments dans la fenêtre. $docsify this code
 
- ### Step 4: UPLOAD DOCUMENT
- 1. Use github desktop to upload new information by changing the branch's fold from root to docs.
 
- ![](../IMAGE/docs.png)
+             subMaxLevel: 3,
+             sidebarDisplayLevel: 1, // set sidebar display level
 
- 2. Use github desktop to name your changes and to commit them. 
+Insérez ensuite le script dans le document, tout comme l'utilisation des plugins officiels
 
- ![Alt text](../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/changes.png)
+              <!-- plugins -->
+               <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
- 3. when you are done committing them, you can push your changes to your github page.
+- NAVBAR
 
-![Alt text](../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/push.png)
+Cree File Navbar.md
 
- ## REFERENCES 
+             <!-- 侧边栏 docs/_navbar.md -->
+                - [VISION]()
+
+                - [TEAM]()
+
+                - [LANGUAGE]()
+
+        - [:us:]()
+        - [CN:cn:](CN/)
+        - ع:saudi_arabia:
+
+ouvre l'Index file va a window.$docsify puis ajoute
+
+             loadNavbar: true,
+
+ 
+   ### 6. Rédigez votre document et enregistrez tout le document.
+
+   ### 7. Téléchargement d'images
+ Nous avons créé un dossier Image dans docs où nous stockions toutes les images et nous les faisions glisser et déposer dans le document. en utilisant le format "img style="float: center;" width=700 src="IMAGE/Imageupload.png".
+
+ <br>
+<img style="float: center;" width=700 src="IMAGE/Imageupload.png">
+
+ ### Étape 4 : TÉLÉCHARGER LE DOCUMENT
+ 1. Utilisez le bureau github pour télécharger de nouvelles informations en changeant le pli de la branche de root à docs.
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/docs.png">
+
+
+ 2. Utilisez le bureau github pour nommer vos modifications et les valider. 
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/changes.png">
+
+3. Lorsque vous avez fini de les valider, vous pouvez pousser vos modifications sur votre page github.
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/push.png">
+
+
+
+## B. FAQ
+
+ ## Choisir le dossier 'docs'
+ Lors de la configuration de notre page, nous avions commencé par choisir le dossier "docs" plutôt que de choisir "root" qui, après l'enregistrement, ne nous donnait pas le lien de la page Web.
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/repositorylink.png">
+
+  ### SOLUTION : Nous avons découvert que nous devions choisir "root" en premier lieu car nous n'avions pas encore défini les paramètres locaux.
+
+ ## Le terme 'npm' n'est pas reconnu comme le nom d'une applet de commande, d'une fonction, d'un fichier de script ou d'un programme utilisable
+  programme utilisable était: npm i docsify-cli -g
+
+   puis le système avertirait
+
+   npm : le terme "npm" n'est pas reconnu comme le nom d'une applet de commande, d'une fonction, d'un fichier de script ou
+   programme opérationnel. Vérifiez l'orthographe du nom, ou si un chemin a été inclus, vérifiez que
+   le chemin est correct et réessayez.
+   At line:1 char:2
+   +  npm i docsify-cli -g
+   +  ~~~
+   + CategoryInfo          : ObjectNotFound: (npm:String) [], CommandNotFoundException        
+   + FullyQualifiedErrorId : CommandNotFoundException
+
+   <br>
+   <img style="float: center;" width=700 src="IMAGE/owbsiqer.png">
+
+     ### SOLUTION : Vérifiez le chemin ci-dessus
+
+  ## Le terme 'docsify' n'est pas reconnu comme le nom d'une applet de commande, d'une fonction, d'un fichier de script ou d'un programme utilisable
+
+  programme utilisable était : docsify init ./docs
+
+  et le système avertirait
+
+  <br>
+ <img style="float: center;" width=700 src="IMAGE/docsify-prbjm.png">
+
+    ### SOLUTION : Nous avons dû tout désinstaller et réinstaller car il s'agissait d'un problème d'environnement informatique.
+
+  ## Échec du déploiement
+  Parfois, nous poussions nos modifications sur la page et nous recevions une notification indiquant que le déploiement a échoué.
+
+ <br>
+ <img style="float: center;" width=700 src="IMAGE/deploy.png">
+
+     ### SOLUTION : attendez un peu plus longtemps et réessayez, il s'agit principalement d'un problème de réseau.
+
+
+## C. CONFIGURER TEAMINTRO
+
+Obtenez un modèle que vous voudriez utiliser [Here](http://bestjquery.com/tutorial/our-team/demo65/)
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/inspect.png">
+
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/language2.png">
+
+
+## D. LANGUAGE
+
+normalement votre fichier docs ressemble à ceci
+
+    .
+    └── docs
+       ├── README.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+
+si vous voulez avoir plus de langues, vous devez créer un autre dossier comme vous voulez faire du chinois afin que vous ayez un dossier comme la Chine de cette façon.
+
+    .
+    └── docs
+       ├── README.md
+       ├── Home.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+    └── China
+       ├── Home.md
+       ├── README.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+    └── French
+       ├── Home.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+    └── README.md   
+
+puis ajoutez dans le fichier d'index
+
+     homepage: 'home.md',
+     mergeNavbar: true,
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/language.png">
+
+
+## E. REFERENCES 
  - [Nexmaker](https://www.nexmaker.com/)
  - [Docsify](https://docsify.js.org/#/?id=docsify)

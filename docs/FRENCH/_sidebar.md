@@ -1,28 +1,24 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-- PROJECT MANAGEMENT
-  - 1. [HOW TO BUILD WEB]()
-    - [GitHub page](PM/Howtobuild.md)
-    - [FAQ](PM/Howtobuild/faq.md)
-    - [Team set up](PM/Howtobuild/teamsetup.md)
-  - 2. [CAD DESIGN]()
-    - [Fusion 360](PM/CAD/installcad.md)
-    - [Practices](PM/CAD/practicecad.md)
-  - 3. [3D PRINTING]()
-    - [Theory](PM/3dprinting/theory.md)
-    - [Practice](PM/3dprinting/practice.md)
-  - 4. [LASER CUTTING]()
-    - [Basics](https://www.nexmaker.com/doc/6laser_cutter/basic.html)
-    - [Practice](https://www.nexmaker.com/doc/6laser_cutter/Design_guide.html)
-  - 5. [ARDUINO]()
-    - [Theory](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
-    - [Practice](PM/Arduino/practice.md)
+- GESTION DE PROJET
+  - [1. COMMENT CONSTRUIRE LE WEB](/PM/Howtobuild/githubpage.md)
+  - [2. CONCEPTION CAD]()
+    - [Fusion 360](/docs/FRENCH/PM/CAD/installcad.md)
+    - [Pratiques](FRENCH/PM/CAD/practicecad.md)
+  - [3. IMPRESSION EN 3D]()
+    - [Théorie](FRENCH/PM/3dprinting/theory.md)
+    - [Pratique](PM/3dprinting/practice.md)
+  - [4. DÉCOUPE AU LASER]()
+    - [Les bases](https://www.nexmaker.com/doc/6laser_cutter/basic.html)
+    - [Pratique](https://www.nexmaker.com/doc/6laser_cutter/Design_guide.html)
+  - [5. ARDUINO]()
+    - [Théorie](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
+    - [Pratique](PM/Arduino/practice.md)
 
 
-- [FINAL PROJECT]
-  - [Topic](FINALPROJECT/topic.md)
+- [PROJET FINAL]
+  - [Sujet](FINALPROJECT/sujet.md)
   - [Innovation]()
-  - [Market]()
-  - [Design CAD]()
-   - [How to Design]()
-   - [How to make]()
-  - SDGs
+  - [Marché]()
+  - [Conception CAO]()
+   - [Comment concevoir]()
+   - [Comment faire]()

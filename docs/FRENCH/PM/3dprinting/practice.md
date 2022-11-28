@@ -1,22 +1,30 @@
-# 1. WOOD DESK
-This was our first fusion work. We wanted to try with furnitures first. When we printed it, we had some issues with our raft, which was not holding well. Also the scale was a bit small. But we then saw how to put the right parameters for the next work.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/desk1.png)
+# 1. BUREAU EN BOIS
+C'était notre premier travail de fusion. Nous voulions d'abord essayer avec des meubles. Lorsque nous l'avons imprimé, nous avons eu quelques problèmes avec notre radeau, qui ne tenait pas bien. De plus, l'échelle était un peu petite. Mais nous avons ensuite vu comment mettre les bons paramètres pour le travail suivant.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/desk2.png)
+<br>
+ <img style="float: center;" width=500 src="IMAGE/desk1.png">
 
-# 2. BOOK SHELF
-Our first trial with the 3d printer was a book shelf. This one turned out pretty well. We had to print it on its back so we can have a good raft set. 
+<br>
+ <img style="float: center;" width=500 src="IMAGE/desk2.png">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/bookshelf.png)
+# 2. ÉTAGÈRE À LIVRES
+Notre premier essai avec l'imprimante 3D était une étagère à livres. Celui-ci s'est plutôt bien passé. Nous avons dû l'imprimer sur le dos pour avoir un bon set de radeau. 
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/bookshelf2.png.jpg)
+<br>
+ <img style="float: center;" width=500 src="IMAGE/bookshelf.png">
 
-# 3. GROOVED KNOB
-We also worked on the knob of a blender, which also turned out pretty well. 
+<br>
+ <img style="float: center;" width=500 src="IMAGE/bookshelf2.png.jpg">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/knob1.png)
+# 3. BOUTON RAINURÉ
+Nous avons également travaillé sur le bouton d'un mixeur, qui s'est également avéré plutôt bien.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/knob2.png)
+<br>
+ <img style="float: center;" width=500 src="IMAGE/knob1.png">
+
+<br>
+ <img style="float: center;" width=500 src="IMAGE/knob2.png">
+
 
 

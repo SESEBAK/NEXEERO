@@ -1,22 +1,30 @@
-# 1. WOOD DESK
-This was our first fusion work. We wanted to try with furnitures first. When we printed it, we had some issues with our raft, which was not holding well. Also the scale was a bit small. But we then saw how to put the right parameters for the next work.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/desk1.png)
+# 1. 木桌
+这是我们的第一个融合工作。我们想先试试家具。当我们打印它时，我们的木筏有一些问题，它不能很好地支撑。规模也有点小。但是我们随后看到了如何为下一个工作设置正确的参数。
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/desk2.png)
+<br>
+ <img style="float: center;" width=500 src="IMAGE/desk1.png">
 
-# 2. BOOK SHELF
-Our first trial with the 3d printer was a book shelf. This one turned out pretty well. We had to print it on its back so we can have a good raft set. 
+<br>
+ <img style="float: center;" width=500 src="IMAGE/desk2.png">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/bookshelf.png)
+# 2. 书架
+我们对 3d 打印机的第一次试用是一个书架。这个结果很好。我们必须把它印在背面，这样我们才能有一套好的木筏。 
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/bookshelf2.png.jpg)
+<br>
+ <img style="float: center;" width=500 src="IMAGE/bookshelf.png">
 
-# 3. GROOVED KNOB
-We also worked on the knob of a blender, which also turned out pretty well. 
+<br>
+ <img style="float: center;" width=500 src="IMAGE/bookshelf2.png.jpg">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/knob1.png)
+# 3. 凹槽旋钮
+我们还研究了搅拌机的旋钮，结果也很不错。
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/knob2.png)
+<br>
+ <img style="float: center;" width=500 src="IMAGE/knob1.png">
+
+<br>
+ <img style="float: center;" width=500 src="IMAGE/knob2.png">
+
 
 

@@ -1,6 +1,6 @@
-# HOW TO BUILD 
+## A. HOW TO BUILD 
 
-## Step 1: GET THE TOOLS
+  ### Step 1: GET THE TOOLS
  Installing all the necessary tools to build the webpage:
 
     
@@ -11,7 +11,7 @@
 - [Nodejs](https://nodejs.org/en/); We used it to build the environment
 - [Markdown language](https://www.nexmaker.com/doc/1projectmanage/markdown.html); We used the Markdown language to write documents
 
-## Step 2: SET THE PAGE
+  ### Step 2: SET THE PAGE
  Create a repository: go on github.com and after signing up, create your repository. Keep it Public so that anyone on the internet can have access to it and add a README file to it cause that's where you can write a long description for your project. 
 
 <br>
@@ -23,9 +23,9 @@
 <br>
 <img style="float: center;" width=700 src="IMAGE/repositorylink.png">
 
-## Step 3: LOCAL SETTINGS
+  ### Step 3: LOCAL SETTINGS
 
- ### 1. Github Desktop
+   ### 1. Github Desktop
 
   Open Github desktop, clone your repository created earlier on and open it in Visual Studio Code.
 
@@ -34,7 +34,7 @@
 
 
 
- ### 2. Vs Code
+   ### 2. Vs Code
 
   In VS Code, Add "Hello" word to the README.md save all and use github desktop to commit and push to the web page.
     We use the Docsify methode to build the structure, under the vscode menu bar open the Terminal option and create a new terminal. Then install doscsify.
@@ -43,7 +43,7 @@
 <img style="float: center;" width=700 src="IMAGE/newterminal.png">
 
 
- ### 3. Install Docsify
+   ### 3. Install Docsify
   -  Enter the following command first "npm i docsify-cli -g"
 
 <br>
@@ -68,7 +68,7 @@
   - Then open browser to visit http://localhost:3000, you will get a initial website.
 
 
- ### 4. Setting up Index.html
+   ### 4. Setting up Index.html
 
   <!DOCTYPE html>
      <html lang="en">
@@ -105,7 +105,7 @@
      </body>
      </html>
 
- ### 5.  Add sidebar and navbar
+   ### 5.  Add sidebar and navbar
   - SIDEBAR 
               <!-- 侧边栏 docs/_sidebar.md -->
                - Team introduce
@@ -161,15 +161,15 @@ open the Index file go to window.$docsify then add
              loadNavbar: true,
 
  
- ### 6. Write your document and save all the document.
+   ### 6. Write your document and save all the document.
 
- ### 7. Image Upload
+   ### 7. Image Upload
  We created an Image folder in docs where we stored all the pictures and we would drag and drop them into the document. using "img style="float: center;" width=700 src="IMAGE/Imageupload.png" format.
 
  <br>
 <img style="float: center;" width=700 src="IMAGE/Imageupload.png">
 
-## Step 4: UPLOAD DOCUMENT
+ ### Step 4: UPLOAD DOCUMENT
  1. Use github desktop to upload new information by changing the branch's fold from root to docs.
 
 <br>
@@ -186,6 +186,111 @@ open the Index file go to window.$docsify then add
 <br>
 <img style="float: center;" width=700 src="IMAGE/push.png">
 
- ## REFERENCES 
+
+
+## B. FAQ
+
+ ## Choosing 'docs' folder 
+ When setting up our page we had started by choosing the folder "docs" rather that choosing "root" which after saving was not giving us the webpage link.
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/repositorylink.png">
+
+   ### SOLUTION: We discovered that we had to choose "root" in the first place because we had not yet put the local settings.
+
+ ## The term 'npm' is not recognized as the name of a cmdlet, function, script file, or operable  program
+  operable program was:     npm i docsify-cli -g
+
+   and then system would warn
+
+   npm : The term 'npm' is not recognized as the name of a cmdlet, function, script file, or 
+   operable program. Check the spelling of the name, or if a path was included, verify that 
+   the path is correct and try again.
+   At line:1 char:2
+   +  npm i docsify-cli -g
+   +  ~~~
+   + CategoryInfo          : ObjectNotFound: (npm:String) [], CommandNotFoundException        
+   + FullyQualifiedErrorId : CommandNotFoundException
+
+   <br>
+   <img style="float: center;" width=700 src="IMAGE/owbsiqer.bmp">
+
+     ### SOLUTION: Verify the path above
+
+  ## The term 'docsify' is not recognized as the name of a cmdlet, function, script file, or operable  program
+
+  operable program was:    docsify init ./docs
+
+  and the system would warn
+
+  <br>
+ <img style="float: center;" width=700 src="IMAGE/docsify-prbjm.png">
+
+     ### SOLUTION: We had to disinstall and re-install everything as it was a computer environment issue.
+
+  ## Failed to Deploy
+  Sometimes we would push our changes to the page and we would have a notification that deployment has failed. 
+
+ <br>
+ <img style="float: center;" width=700 src="IMAGE/deploy.png">
+
+     ### SOLUTION: Wait a bit longer and keep trying again, it is mainly a network issue.
+
+
+## C. SET UP TEAMINTRO
+
+Get a template you would want to use [Here](http://bestjquery.com/tutorial/our-team/demo65/)
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/inspect.png">
+
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/language2.png">
+
+
+## D. LANGUAGE
+
+normaly your docs file look like this
+
+    .
+    └── docs
+       ├── README.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+
+if you want to have more languages you need creat another follder like you want make chinese so you haave have follder like China like this way.
+
+    .
+    └── docs
+       ├── README.md
+       ├── Home.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+    └── China
+       ├── Home.md
+       ├── README.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+    └── French
+       ├── Home.md
+       ├── index.htm
+       ├── Sidebar.md
+       └── navbar.md
+    └── README.md   
+
+then add in the index file
+
+     homepage: 'home.md',
+     mergeNavbar: true,
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/language.png">
+
+
+## E. REFERENCES 
  - [Nexmaker](https://www.nexmaker.com/)
  - [Docsify](https://docsify.js.org/#/?id=docsify)

@@ -1,3 +1,5 @@
-NEXEERO pronounced as [Ne'k'zi'ro] is a playful name inspired the words "Next Zero". Our targeted project is to boosting the ZERO-hunger project while NEXT insinuates an aspired Future.
+# NEXEERO prononcé comme [Ne'k'zi'ro] est un nom ludique inspiré des mots "Next Zero". Notre projet ciblé est de stimuler le projet ZERO-faim tandis que NEXT insinue un avenir aspiré.
 
-![](../../IMAGE/WE%20ARE%20NEXEERO!.png)
+
+<br>
+ <video style="float: center;" width=700 src="VIDEOS/vid2.mp4">

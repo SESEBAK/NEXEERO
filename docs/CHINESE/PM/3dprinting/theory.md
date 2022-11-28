@@ -1,60 +1,68 @@
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/3d.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/3d.png">
 
-# Step one – Creation
-First in 3D Printing is to create a blueprint slash three-dimensional digital file of the object we want to print. The most common way of creating a digital model is with Computer Aided Design – CAD. However, there is a large range of professional and entry level softwares that can produce a file suitable for 3D Printing.
+# 第一步 – 创建
+3D打印首先是创建我们要打印的对象的蓝图斜线三维数字文件。创建数字模型的最常见方法是使用计算机辅助设计 - CAD。但是，有大量专业和入门级软件可以生成适合 3D 打印的文件。
 
-- DESIGN: You can use 3D modeling software like Blender, SketchUp, AutoCad, SolidWorks, Maya, PhotoShop, ThinkerCad or others to create your own designs. We used Fusion360 for all the designs in this project.
-- SCAN: Another way to create a three-dimensional digital file is through 3D scanning. 3D scanning is a technology, closely related to 3D printing, that analyzes a real-world object and instantly creates a digital replica. 3D Scanning is widely used for reverse engineering tasks from industry professionals. Once an existing object is digitized, we also have the option to modify it before printing. A 3D scanner is needed for this process.
-- DOWNLOAD: If you have minimal patience and just want to go ahead and print something, you can visit websites like Thingivers, YouMagine, CrabCad, and MyMinifactory Shapeways to download or buy files that other users have modeled. These files are 3d Print ready in most cases!
+- 设计：您可以使用 Blender、SketchUp、AutoCad、SolidWorks、Maya、PhotoShop、ThinkerCad 等 3D 建模软件来创建您自己的设计。我们将 Fusion360 用于该项目中的所有设计。
+- 扫描：创建三维数字文件的另一种方法是通过 3D 扫描。 3D 扫描是一种与 3D 打印密切相关的技术，它分析现实世界的物体并立即创建数字复制品。 3D 扫描广泛用于行业专业人士的逆向工程任务。将现有对象数字化后，我们还可以选择在打印前对其进行修改。此过程需要 3D 扫描仪。
+- 下载：如果您没有耐心，只想继续打印一些东西，您可以访问 Thingivers、YouMagine、CrabCad 和 MyMinifactory Shapeways 等网站下载或购买其他用户建模的文件。在大多数情况下，这些文件都可以进行 3d 打印！
 
-Lastly, there are several design requirements the 3D files have to meet before sending them to the printer. When designing for Additive Manufacturing (3D Printing), we need to keep in mind that we are design for the real world. Those are things like proper scale-size, minimum wall thickness, manifold/watertight just to name few, which we are going to take a deeper look a bit latter.
+最后，3D 文件在发送到打印机之前必须满足几个设计要求。在为增材制造（3D 打印）进行设计时，我们需要牢记我们是为现实世界设计的。诸如适当的比例尺寸、最小壁厚、歧管/水密性等等，仅举几例，我们将在稍后进行更深入的研究。
 
-[Links To Free Design Software, Ready To Print Files And Slicing Engines](http://my3dconcepts.com/explore/design-scan-download/)
-
-
-# Step two – STL
-Once you have a finished the CAD design, it is time to send it to the printer. First, we need to convert it into an appropriate file format. The most common 3D Printing file format is called STL, that stands for STereoLithography, and named after the first ever 3D printing process. STL has several other meanings such as “Standard Triangle Language” and “Standard Tessellation Language”. What is important to remember here is that .STL is the usable file extension.
-
-This file format includes triangular mesh (polygons), the data that describes the layout/surface of a three-dimensional object. Alternatives to STL are .OBJ and .3MF. Keep in mind that all those file formats don’t contain color information. For 3D printing in full color, you need to use file formats like .X3D, .WRL, .DAE, .PLY
-
-An important note here is not every STL or OBJ file is 3D printable by default. The file formats have to meet certain criteria like a maximum polygon count, water-tightness, proper physical size, minimum wall thickness etc. (Read More Here.) In short they have to be designed with 3D printing in mind!
-Slicing – CAM
-
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/stl.png)
-
-# Step Three – Slicing
-This is the process of translating the 3D File into instructions for the 3D printer to follow. Yep, that’s the fun part and you need a special software to do only that! Basically, Slicing is dividing or chopping the 3D model into hundreds or thousands of horizontal layers, telling the machine exactly what to do, step by step. 
-
-The software used is [Flashforge 3D Printer](https://www.flashforge.com/download-center)
-
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/slice.png)
+[链接到免费设计软件，准备打印文件和切片引擎](http://my3dconcepts.com/explore/design-scan-download/)
 
 
-After the files are Sliced, a new file format is generated called G-code, with the file extension .gcode. G-code is the most widely used numerical code programming language, mainly used in computer-aided manufacturing to control automated machine tools like 3D Printers and CNCs (Computer Numerical Controls). In a nutshell G-code is the language of the machine and what we use to communicate with it!
+# 第二步——STL
+完成 CAD 设计后，就可以将其发送给打印机了。首先，我们需要将其转换成合适的文件格式。最常见的 3D 打印文件格式称为 STL，代表 StereoLithography，并以有史以来第一个 3D 打印过程命名。 STL还有其他几种含义，例如“标准三角形语言”和“标准镶嵌语言”。这里要记住的重要一点是.STL 是可用的文件扩展名。
 
-If you own a 3D printer you will have to do it yourself. There are a lot of setting you can adjust to get the best result out of the printer. Good news is – No coding is required at all 😉
+此文件格式包括三角网格（多边形），即描述三维对象布局/表面的数据。 STL 的替代品是 .OBJ 和 .3MF。请记住，所有这些文件格式都不包含颜色信息。对于全彩 3D 打印，您需要使用 .X3D、.WRL、.DAE、.PLY 等文件格式
 
-If you are using a 3D Printing Services Provider, you don’t have to worry about Slicing. Why? Because the provider will do it for you. All you need to do is upload the correct file format and wait for the 3D printing process to complete.
+这里需要注意的是，并非每个 STL 或 OBJ 文件默认都是可 3D 打印的。文件格式必须满足某些标准，如最大多边形数、水密性、适当的物理尺寸、最小壁厚等。（在此处阅读更多信息。）简而言之，它们必须在设计时考虑到 3D 打印！
+切片 – CAM
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/send.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/stl.png">
 
-# Step Four – Printing
+# 第三步——切片
+这是将 3D 文件转换为 3D 打印机要遵循的说明的过程。是的，这就是有趣的部分，您需要一个特殊的软件才能做到这一点！基本上，切片是将 3D 模型划分或切碎成数百或数千个水平层，一步一步地告诉机器确切要做什么。
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/1step.jpg)
+使用的软件是 [Flashforge 3D Printer](https://www.flashforge.com/download-center)
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/levels.jpg)
-
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/4step.png)
-
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/5step.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/slice.png">
 
 
-The printing machines are made of many moving and intricate parts, and they demand correct maintenance and calibration to produce successful prints. Most 3D Printers do not need to be monitored after the printing has begun. The machine will follow the automated G-code instructions, so as long as there is no software error or the machine doesn’t run out of raw material, there should not be a issues during the printing process.
+文件被切片后，会生成一种新的文件格式，称为 G 代码，文件扩展名为 .gcode。 G代码是使用最广泛的数字代码编程语言，主要用于计算机辅助制造，以控制3D打印机和CNC（计算机数字控制）等自动化机床。简而言之，G 代码是机器的语言，也是我们用来与之交流的语言！
 
-# Step Five – Removal
-Removing the finished parts from the printer will vary for different 3D printing technologies. In some case, like for Desktop machines, it is as simple as separating the print from the build platform. For some industrial 3D printers, the removal of a part is a technical process that requires professional skills and specialized equipment within a controlled environment.
+如果您拥有 3D 打印机，则必须自己动手。您可以调整很多设置以获得打印机的最佳效果。好消息是——根本不需要编码 😉
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/postp.png)
+如果您使用的是 3D 打印服务提供商，则不必担心切片问题。为什么？因为提供者会为您做这件事。您需要做的就是上传正确的文件格式并等待 3D 打印过程完成。
+<br>
+ <img style="float: center;" width=700 src="IMAGE/send.png">
+
+# 第四步——打印
+
+<br>
+ <img style="float: center;" width=400 src="IMAGE/1step.jpg">
+
+<br>
+ <img style="float: center;" width=400 src="IMAGE/levels.jpg">
+
+<br>
+ <img style="float: center;" width=400 src="IMAGE/4step.png">
+
+<br>
+ <img style="float: center;" width=400 src="IMAGE/5step.png">
+
+
+印刷机由许多移动和复杂的部件组成，它们需要正确的维护和校准才能打印出成功的印刷品。大多数 3D 打印机在打印开始后不需要进行监控。机器会自动执行 G 代码指令，所以只要没有软件错误或机器没有用完原材料，打印过程中就不会出现问题。
+
+# 第五步 – 删除
+从打印机中取出成品部件会因 3D 打印技术的不同而有所不同。在某些情况下，例如台式机，它就像将打印件与构建平台分开一样简单。对于一些工业级 3D 打印机来说，部件的拆卸是一个技术过程，需要在受控环境中使用专业技能和专用设备。
+
+<br>
+ <img style="float: center;" width=400 src="IMAGE/postp.png">
 
 
 # REFERENCES

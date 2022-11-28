@@ -1,4 +1,5 @@
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/3d.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/3d.png">
 
 # Step one – Creation
 First in 3D Printing is to create a blueprint slash three-dimensional digital file of the object we want to print. The most common way of creating a digital model is with Computer Aided Design – CAD. However, there is a large range of professional and entry level softwares that can produce a file suitable for 3D Printing.
@@ -20,14 +21,16 @@ This file format includes triangular mesh (polygons), the data that describes th
 An important note here is not every STL or OBJ file is 3D printable by default. The file formats have to meet certain criteria like a maximum polygon count, water-tightness, proper physical size, minimum wall thickness etc. (Read More Here.) In short they have to be designed with 3D printing in mind!
 Slicing – CAM
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/stl.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/stl.png">
 
 # Step Three – Slicing
 This is the process of translating the 3D File into instructions for the 3D printer to follow. Yep, that’s the fun part and you need a special software to do only that! Basically, Slicing is dividing or chopping the 3D model into hundreds or thousands of horizontal layers, telling the machine exactly what to do, step by step. 
 
 The software used is [Flashforge 3D Printer](https://www.flashforge.com/download-center)
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/slice.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/slice.png">
 
 
 After the files are Sliced, a new file format is generated called G-code, with the file extension .gcode. G-code is the most widely used numerical code programming language, mainly used in computer-aided manufacturing to control automated machine tools like 3D Printers and CNCs (Computer Numerical Controls). In a nutshell G-code is the language of the machine and what we use to communicate with it!
@@ -36,17 +39,22 @@ If you own a 3D printer you will have to do it yourself. There are a lot of sett
 
 If you are using a 3D Printing Services Provider, you don’t have to worry about Slicing. Why? Because the provider will do it for you. All you need to do is upload the correct file format and wait for the 3D printing process to complete.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/send.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/send.png">
 
 # Step Four – Printing
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/1step.jpg)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/1step.jpg">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/levels.jpg)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/levels.jpg">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/4step.png)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/4step.png">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/5step.png)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/5step.png">
 
 
 The printing machines are made of many moving and intricate parts, and they demand correct maintenance and calibration to produce successful prints. Most 3D Printers do not need to be monitored after the printing has begun. The machine will follow the automated G-code instructions, so as long as there is no software error or the machine doesn’t run out of raw material, there should not be a issues during the printing process.
@@ -54,7 +62,8 @@ The printing machines are made of many moving and intricate parts, and they dema
 # Step Five – Removal
 Removing the finished parts from the printer will vary for different 3D printing technologies. In some case, like for Desktop machines, it is as simple as separating the print from the build platform. For some industrial 3D printers, the removal of a part is a technical process that requires professional skills and specialized equipment within a controlled environment.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/postp.png)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/postp.png">
 
 
 # REFERENCES

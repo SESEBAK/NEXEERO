@@ -1,6 +1,6 @@
-# OUR TOPIC
-One of the ways to Solve World Hunger is by increasing Agricultural Output.
-As Nexeero Group, our goal is to contribute to the Zero Hunger Project by bringing solutions to some agriculture issues like Irrigation, faced by Least developed countries. 
+# 我们的主题
+解决世界饥饿的方法之一是增加农业产量。
+作为 Nexeero 集团，我们的目标是通过为最不发达国家面临的灌溉等农业问题提供解决方案，为零饥饿项目做出贡献。
 
-Some of the ideas we were having is to innovate or better some of the devices used in agriculture, in micro-irrigation for example. Especially agriculture sprinklers. We want to look at how we can innovate them in a way that they can be easily accessible by the lowly hence helping in bettering LDCs irrigation issues.
+我们的一些想法是创新或改进农业中使用的一些设备，例如微灌。尤其是农业洒水器。我们想看看我们如何能够以一种方式对其进行创新，使它们可以被低收入者轻松访问，从而帮助改善最不发达国家的灌溉问题。
 ![](../IMAGE/sprinkler.webp)

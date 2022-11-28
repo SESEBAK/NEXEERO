@@ -1,9 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - PROJECT MANAGEMENT
-  - [1. HOW TO BUILD WEB]()
-     - [GitHub page](PM/Howtobuild/githubpage.md.md)
-     - [FAQ](PM/Howtobuild/faq.md)
-     - [Other Options](PM/Howtobuild/OtherOptions.md)
+  - [1. HOW TO BUILD WEB](PM/Howtobuild/githubpage.md)
   - [2. CAD DESIGN]()
     - [Fusion 360](PM/CAD/installcad.md)
     - [Practices](PM/CAD/practicecad.md)
@@ -20,9 +17,9 @@
 
 - [FINAL PROJECT]
   - [Topic](FINALPROJECT/topic.md)
-  - [Innovation]()
   - [Market]()
+  - [Innovation]]()
   - [Design CAD]()
    - [How to Design]()
    - [How to make]()
-  - SDGs
+  - [3D Printing]()

@@ -1,60 +1,69 @@
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/3d.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/3d.png">
 
-# Step one – Creation
-First in 3D Printing is to create a blueprint slash three-dimensional digital file of the object we want to print. The most common way of creating a digital model is with Computer Aided Design – CAD. However, there is a large range of professional and entry level softwares that can produce a file suitable for 3D Printing.
+# Première étape – Création
+Tout d'abord dans l'impression 3D consiste à créer un fichier numérique en trois dimensions de l'objet que nous voulons imprimer. La manière la plus courante de créer un modèle numérique est la conception assistée par ordinateur - CAO. Cependant, il existe une large gamme de logiciels professionnels et d'entrée de gamme qui peuvent produire un fichier adapté à l'impression 3D.
 
-- DESIGN: You can use 3D modeling software like Blender, SketchUp, AutoCad, SolidWorks, Maya, PhotoShop, ThinkerCad or others to create your own designs. We used Fusion360 for all the designs in this project.
-- SCAN: Another way to create a three-dimensional digital file is through 3D scanning. 3D scanning is a technology, closely related to 3D printing, that analyzes a real-world object and instantly creates a digital replica. 3D Scanning is widely used for reverse engineering tasks from industry professionals. Once an existing object is digitized, we also have the option to modify it before printing. A 3D scanner is needed for this process.
-- DOWNLOAD: If you have minimal patience and just want to go ahead and print something, you can visit websites like Thingivers, YouMagine, CrabCad, and MyMinifactory Shapeways to download or buy files that other users have modeled. These files are 3d Print ready in most cases!
+- DESIGN : vous pouvez utiliser un logiciel de modélisation 3D comme Blender, SketchUp, AutoCad, SolidWorks, Maya, PhotoShop, ThinkerCad ou d'autres pour créer vos propres conceptions. Nous avons utilisé Fusion360 pour toutes les conceptions de ce projet.
+- SCAN : une autre façon de créer un fichier numérique en trois dimensions consiste à numériser en 3D. La numérisation 3D est une technologie étroitement liée à l'impression 3D, qui analyse un objet du monde réel et crée instantanément une réplique numérique. La numérisation 3D est largement utilisée pour les tâches de rétro-ingénierie par les professionnels de l'industrie. Une fois qu'un objet existant est numérisé, nous avons également la possibilité de le modifier avant l'impression. Un scanner 3D est nécessaire pour ce processus.
+- TÉLÉCHARGER : si vous avez un minimum de patience et que vous voulez simplement imprimer quelque chose, vous pouvez visiter des sites Web comme Thingivers, YouMagine, CrabCad et MyMinifactory Shapeways pour télécharger ou acheter des fichiers que d'autres utilisateurs ont modélisés. Ces fichiers sont prêts pour l'impression 3d dans la plupart des cas !
 
-Lastly, there are several design requirements the 3D files have to meet before sending them to the printer. When designing for Additive Manufacturing (3D Printing), we need to keep in mind that we are design for the real world. Those are things like proper scale-size, minimum wall thickness, manifold/watertight just to name few, which we are going to take a deeper look a bit latter.
+Enfin, les fichiers 3D doivent répondre à plusieurs exigences de conception avant de les envoyer à l'imprimante. Lors de la conception pour la fabrication additive (impression 3D), nous devons garder à l'esprit que nous concevons pour le monde réel. Ce sont des choses comme la bonne taille d'échelle, l'épaisseur de paroi minimale, le collecteur / étanche pour n'en nommer que quelques-uns, que nous allons approfondir un peu plus tard.
 
-[Links To Free Design Software, Ready To Print Files And Slicing Engines](http://my3dconcepts.com/explore/design-scan-download/)
-
-
-# Step two – STL
-Once you have a finished the CAD design, it is time to send it to the printer. First, we need to convert it into an appropriate file format. The most common 3D Printing file format is called STL, that stands for STereoLithography, and named after the first ever 3D printing process. STL has several other meanings such as “Standard Triangle Language” and “Standard Tessellation Language”. What is important to remember here is that .STL is the usable file extension.
-
-This file format includes triangular mesh (polygons), the data that describes the layout/surface of a three-dimensional object. Alternatives to STL are .OBJ and .3MF. Keep in mind that all those file formats don’t contain color information. For 3D printing in full color, you need to use file formats like .X3D, .WRL, .DAE, .PLY
-
-An important note here is not every STL or OBJ file is 3D printable by default. The file formats have to meet certain criteria like a maximum polygon count, water-tightness, proper physical size, minimum wall thickness etc. (Read More Here.) In short they have to be designed with 3D printing in mind!
-Slicing – CAM
-
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/stl.png)
-
-# Step Three – Slicing
-This is the process of translating the 3D File into instructions for the 3D printer to follow. Yep, that’s the fun part and you need a special software to do only that! Basically, Slicing is dividing or chopping the 3D model into hundreds or thousands of horizontal layers, telling the machine exactly what to do, step by step. 
-
-The software used is [Flashforge 3D Printer](https://www.flashforge.com/download-center)
-
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/slice.png)
+[Liens vers des logiciels de conception gratuits, des fichiers prêts à imprimer et des moteurs de découpage](http://my3dconcepts.com/explore/design-scan-download/)
 
 
-After the files are Sliced, a new file format is generated called G-code, with the file extension .gcode. G-code is the most widely used numerical code programming language, mainly used in computer-aided manufacturing to control automated machine tools like 3D Printers and CNCs (Computer Numerical Controls). In a nutshell G-code is the language of the machine and what we use to communicate with it!
+# Deuxième étape - STL
+Une fois que vous avez terminé la conception CAO, il est temps de l'envoyer à l'imprimeur. Tout d'abord, nous devons le convertir dans un format de fichier approprié. Le format de fichier d'impression 3D le plus courant est appelé STL, qui signifie STereoLithography, et nommé d'après le tout premier processus d'impression 3D. STL a plusieurs autres significations telles que "Standard Triangle Language" et "Standard Tessellation Language". Ce qu'il est important de retenir ici, c'est que .STL est l'extension de fichier utilisable.
 
-If you own a 3D printer you will have to do it yourself. There are a lot of setting you can adjust to get the best result out of the printer. Good news is – No coding is required at all 😉
+Ce format de fichier comprend un maillage triangulaire (polygones), les données qui décrivent la disposition/surface d'un objet tridimensionnel. Les alternatives à STL sont .OBJ et .3MF. Gardez à l'esprit que tous ces formats de fichiers ne contiennent pas d'informations sur les couleurs. Pour l'impression 3D en couleur, vous devez utiliser des formats de fichiers tels que .X3D, .WRL, .DAE, .PLY
 
-If you are using a 3D Printing Services Provider, you don’t have to worry about Slicing. Why? Because the provider will do it for you. All you need to do is upload the correct file format and wait for the 3D printing process to complete.
+Une remarque importante ici n'est pas que tous les fichiers STL ou OBJ sont imprimables en 3D par défaut. Les formats de fichiers doivent répondre à certains critères tels qu'un nombre maximal de polygones, une étanchéité à l'eau, une taille physique appropriée, une épaisseur de paroi minimale, etc. (Lire la suite ici.) En bref, ils doivent être conçus en pensant à l'impression 3D !
+Tranchage – FAO
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/send.png)
+<br>
+ <img style="float: center;" width=700 src="IMAGE/stl.png">
+
+# Troisième étape - Trancher
+Il s'agit du processus de traduction du fichier 3D en instructions à suivre par l'imprimante 3D. Oui, c'est la partie amusante et vous avez besoin d'un logiciel spécial pour ne faire que cela ! Fondamentalement, Slicing divise ou découpe le modèle 3D en centaines ou milliers de couches horizontales, indiquant à la machine exactement quoi faire, étape par étape.
+
+Le logiciel utilisé est [Flashforge 3D Printer](https://www.flashforge.com/download-center)
+
+<br>
+ <img style="float: center;" width=700 src="IMAGE/slice.png">
+
+
+Une fois les fichiers découpés en tranches, un nouveau format de fichier est généré, appelé G-code, avec l'extension de fichier .gcode. Le G-code est le langage de programmation de code numérique le plus largement utilisé, principalement utilisé dans la fabrication assistée par ordinateur pour contrôler les machines-outils automatisées telles que les imprimantes 3D et les CNC (commandes numériques par ordinateur). En un mot, le G-code est le langage de la machine et ce que nous utilisons pour communiquer avec elle !
+
+Si vous possédez une imprimante 3D, vous devrez le faire vous-même. Il existe de nombreux paramètres que vous pouvez ajuster pour obtenir le meilleur résultat de l'imprimante. La bonne nouvelle est qu'aucun codage n'est requis du tout 😉
+
+Si vous utilisez un fournisseur de services d'impression 3D, vous n'avez pas à vous soucier du découpage. Pourquoi? Parce que le fournisseur le fera pour vous. Tout ce que vous avez à faire est de télécharger le bon format de fichier et d'attendre la fin du processus d'impression 3D.
+
+<br>
+ <img style="float: center;" width=700 src="IMAGE/send.png">
 
 # Step Four – Printing
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/1step.jpg)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/1step.jpg">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/levels.jpg)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/levels.jpg">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/4step.png)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/4step.png">
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/5step.png)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/5step.png">
 
 
-The printing machines are made of many moving and intricate parts, and they demand correct maintenance and calibration to produce successful prints. Most 3D Printers do not need to be monitored after the printing has begun. The machine will follow the automated G-code instructions, so as long as there is no software error or the machine doesn’t run out of raw material, there should not be a issues during the printing process.
+Les machines d'impression sont constituées de nombreuses pièces mobiles et complexes, et elles nécessitent un entretien et un étalonnage corrects pour produire des impressions réussies. La plupart des imprimantes 3D n'ont pas besoin d'être surveillées après le début de l'impression. La machine suivra les instructions automatisées du code G, donc tant qu'il n'y a pas d'erreur logicielle ou que la machine ne manque pas de matière première, il ne devrait pas y avoir de problèmes pendant le processus d'impression.
 
-# Step Five – Removal
-Removing the finished parts from the printer will vary for different 3D printing technologies. In some case, like for Desktop machines, it is as simple as separating the print from the build platform. For some industrial 3D printers, the removal of a part is a technical process that requires professional skills and specialized equipment within a controlled environment.
+# Cinquième étape - Suppression
+Le retrait des pièces finies de l'imprimante varie selon les différentes technologies d'impression 3D. Dans certains cas, comme pour les ordinateurs de bureau, il suffit de séparer l'impression de la plate-forme de construction. Pour certaines imprimantes 3D industrielles, le retrait d'une pièce est un processus technique qui nécessite des compétences professionnelles et des équipements spécialisés dans un environnement contrôlé.
 
-!(../../../../../../../../../../../C:/Users/RAZER/Desktop/IDE/1ST%20YEAR/DESIGN%20ENGINEERING/Night-trial/docs/IMAGE/postp.png)
+<br>
+ <img style="float: center;" width=400 src="IMAGE/postp.png">
 
 
 # REFERENCES
