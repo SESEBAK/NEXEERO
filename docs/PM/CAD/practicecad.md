@@ -59,7 +59,7 @@ Your browser does not support the video tag.
  <img style="float: center;" width=700 src="IMAGE/hing1.png">
 
 <br>
- <img style="float: center;" width=700 src="IMAGE/hing2.png"> 
+ <img style="float: center;" width=700 src="IMAGE/hinge2.png"> 
 
 
 <br>

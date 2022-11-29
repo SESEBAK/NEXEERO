@@ -1,67 +1,65 @@
-# What Is Sprinkler Irrigation?
+# 什么是喷灌？
 
-Sprinkler irrigation is any irrigation that uses a pressurized system to apply water in a method that mimics rainfall to the soil surface.
+喷灌是使用加压系统以模拟降雨到土壤表面的方式施水的任何灌溉方式。
 
-Water is delivered to a farmer’s fields through a network of pipes or hoses, and the water is usually pressurized using a pumping system. Irrigation sprinkler systems may be temporary, movable or permanent.
+水通过管道或软管网络输送到农民的田地，水通常使用泵送系统加压。灌溉喷水灭火系统可以是临时的、可移动的或永久的。
 
-In the United States, nearly 4.4 million acres are irrigated via some method of spray, aka sprinkler irrigation, not including center pivot or micro-spray irrigation, according to the 2018 United States Department of Agriculture (USDA) report “Sprinkler Irrigation in the Fields and Open.”
+根据 2018 年美国农业部 (USDA) 的报告“田间喷灌和开放。
 
-Sprinkler irrigation is widely used because it is versatile, adaptable to almost all crops, and affordable. But it’s not a perfect irrigation system. Spray irrigation is one of the most inefficient watering methods, wasting approximately 30 to 50% of the water applied through run-off and evaporation. Only flood irrigation is a more potentially inefficient method of irrigation crops, whereas systems like drip irrigation and sub-irrigation use much less water to achieve effective application rates.
+喷灌之所以被广泛使用，是因为它用途广泛，几乎适用于所有作物，而且经济实惠。但这不是一个完美的灌溉系统。喷灌是效率最低的灌溉方法之一，通过径流和蒸发浪费了大约 30% 到 50% 的用水。只有漫灌是一种更可能低效的灌溉作物方法，而滴灌和地下灌溉等系统使用更少的水来实现有效的应用率。
 
 <br>
  <img style="float: center;" width=600 src="IMAGE/spring4.jpg">
 
-This is an essential consideration because worldwide, farmers are grappling with increasing drought, higher temperatures, and growing populations sucking up the planet’s finite water resources and resulting in restricted water access for agricultural purposes. According to a recently published study, water scarcity is predicted to become a more significant issue in more than 80% of the world’s croplands by 2050.
+这是一个重要的考虑因素，因为在世界范围内，农民正在努力应对日益严重的干旱、更高的温度以及不断增长的人口消耗地球上有限的水资源，从而导致农业用水受限。根据最近发表的一项研究，到 2050 年，水资源短缺预计将成为全球 80% 以上农田的一个更严重的问题。
 
-As farmers plan for their future, carefully considering the type of irrigation system they employ and exploring ways to maximize the efficiency of the system they install is becoming an increasingly critical component of successful farm management.
+在农民规划他们的未来时，仔细考虑他们使用的灌溉系统类型并探索最大限度地提高他们安装的系统效率的方法正成为成功农场管理的一个越来越重要的组成部分。
 
-# 1. TYPES OF SPRINGLER IRRIGATION SYSTEMS
+# 1. 施普林格勒灌溉系统的类型
 
-Several different types of spray irrigation systems are commonly employed for farm irrigation methods.
+几种不同类型的喷灌系统通常用于农场灌溉方法。
 
- ## Cable Tow System
-A cable-tow system is a traveling gun irrigation system. It comprises a large sprinkler head connected to a flexible hose that runs to the water source. The sprinkler is installed on a wheeled cart and is propelled through the field by a cable that winds itself around a drum mounted on the cart.
+ ## 电缆牵引系统
+电缆牵引系统是一种移动式喷枪灌溉系统。它包括一个连接到通向水源的柔性软管的大型喷头。洒水喷头安装在轮式推车上，并通过缠绕在推车上的滚筒上的电缆推动穿过田地。
 
-Cable tow systems are helpful for many different crops but require a cleared lane to travel down and a stationary object at the end of the field, like a tractor, as an anchor.
-Sprinkler System Traveling
+电缆牵引系统对许多不同的作物都有帮助，但需要有一条畅通无阻的车道才能向下行驶，并且需要在田地尽头有一个固定的物体，如拖拉机，作为锚点。
+自动喷水灭火系统行走
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring8.jpg">
 
 
- ## Hose-Pull Traveler System
-A hose-pull traveler is similar to the cable tow but does not require a cable or a stationary object as an anchor. A hose-pull traveler irrigation system uses a wheeled cart installed with a gun-type sprinkler and a semi-rigid polyethylene hose that winds up on a large reel mounted on a second wheeled cart.
+ ## 软管牵引式钢丝圈系统
+软管拉式钢丝圈类似于电缆牵引，但不需要电缆或固定物体作为锚点。软管拉动式灌溉系统使用装有枪式洒水器的轮式推车和半刚性聚乙烯软管，该软管缠绕在安装在第二轮推车上的大卷轴上。
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring9.webp">
 
- ## Solid and Permanent Set Irrigation
-Solid set irrigation systems are made up of evenly-spaced sprinkler heads mounted on risers along a length of pipe. They typically use impact sprinkler heads, although different types of sprinkler heads may be installed depending on the crop requirement. The line is above ground and is movable. These systems are most commonly used on smaller farms or high-value crops such as vegetables. Spacing and spray patterns are easily adjusted by switching out different spray heads or changing the space between risers.
+ ## 固体和永久固定灌溉
+固体灌溉系统由沿管道长度安装在立管上的均匀分布的喷头组成。他们通常使用冲击式洒水喷头，但可以根据作物要求安装不同类型的洒水喷头。线路在地面之上并且是可移动的。这些系统最常用于小型农场或蔬菜等高价值作物。通过切换不同的喷头或改变立管之间的空间，可以轻松调整间距和喷雾模式。
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring10.jpeg">
 
- ## Micro-Sprinkler Systems
-Micro-sprinkler systems are a low-pressure type of spray irrigation. However, they are typically classified together with drip irrigation because the system for delivery is the same. Micro-sprinklers are small, low-pressure sprinklers inserted into a small, typical ½-inch diameter mainline tube.
+## 微型喷水灭火系统
+微喷系统是一种低压喷灌系统。但是，它们通常与滴灌一起归类，因为输送系统相同。微型洒水器是小型低压洒水器，插入一个典型的 ½ 英寸直径主线管中。
 
-While sprinkler heads can be switched to adjust droplet size and spray, impact sprinklers aren’t utilized in micro-sprinkler systems because the system doesn’t deliver enough water pressure to pressurize an impact sprinkler.
+虽然可以切换喷头以调整液滴大小和喷雾，但冲击式喷头并未用于微喷系统，因为该系统无法提供足够的水压来为冲击式喷头加压。
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring11.jpg">
 
- ## Center Pivot Irrigation
-Center pivot irrigation systems are among the most commonly used irrigation systems, especially in the United States. They propel themselves around a central pivot point, creating the circular green fields standard throughout the Midwest.
+ ## 中心枢轴灌溉
+中心枢轴灌溉系统是最常用的灌溉系统之一，尤其是在美国。他们围绕一个中心点推动自己，在整个中西部创造了圆形绿地标准。
 
-Center pivot systems are quite large, capable of irrigating 125 to 130 acres. They are comprised of a lateral, stainless steel pipe mounted across mobile truss structures. Sprinkler heads are mounted along the length of the line, either directly from the overhead pipe or hanging down from lateral pipes. Center pivot systems are best used in circular fields as areas outside the circular pattern will not be irrigated.
+中心枢轴系统非常大，能够灌溉 125 到 130 英亩的土地。它们由安装在移动桁架结构上的横向不锈钢管组成。洒水喷头沿着管线的长度安装，可以直接安装在架空管道上，也可以悬挂在支管上。中心枢轴系统最适用于圆形田地，因为圆形区域以外的区域将无法灌溉。
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring12.jpg">
 
 
- ## Linear Move Irrigation
-A linear move irrigation system is similar to a center pivot system, but rather than pivoting around a central point, it moves laterally through a field. They work in a square or rectangular-shaped field.
-The Pros of a Sprinkler Irrigation
-Flexible for Many Crops and Farms
+ ## 线性移动灌溉
+线性移动灌溉系统类似于中心枢轴系统，但它不是围绕中心点旋转，而是在田地中横向移动。他们在一个正方形或长方形的场地内工作。
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring13.jpg">
@@ -69,16 +67,17 @@ Flexible for Many Crops and Farms
 
 
 
-# 2. PROS OF SPRINKLERS
+# 2. 洒水器的优点
 
-  _ Sprinkler irrigation systems are flexible for many different crops, regions, and soil types. They can be designed to match the dimensions of a field and accommodate hills and uneven terrain, issues that challenge other irrigation systems like furrow irrigation. By swapping out different types of sprinkler heads or nozzles, changing the height of the risers sprinklers are mounted on, or adjusting the water pressure or even pipe size, farmers can change the diameter and impact of how water is applied to crops and the soil surface.
+  _ 喷灌系统可灵活适用于许多不同的作物、地区和土壤类型。它们可以设计成与田地的尺寸相匹配，并适应山丘和不平坦的地形，这些挑战其他灌溉系统的问题，如沟灌。通过更换不同类型的洒水头或喷嘴，改变安装洒水器的立管高度，或者调整水压甚至管道尺寸，农民可以改变直径和对作物和土壤表面的水的影响.
 
-  _ Can Be Used to Apply Fertilizers and Chemicals
+  _ 可用于施肥和化学品
 
-  _ Farmers can easily use their sprinkler irrigation system to fertilize or apply chemicals by including a fertigation or chemigation component in their irrigation system.
-Delivers a Lot of Water When Needed
+  _ 农民可以轻松地使用他们的喷灌系统施肥或施用化学品，方法是在他们的灌溉系统中加入灌溉施肥或化学灌溉组件。
+在需要时提供大量水
 
-  _ Sprinkler irrigation systems are an excellent way to deliver much water when it is most needed uniformly across an area. For this reason, sprinkler irrigation systems are often set up in high-value crops like orchards or salad greens for secondary reasons—like cooling during hot weather or preventing cold weather damage during sudden freezes.
+  _ 喷灌系统是在一个区域最需要时均匀输送大量水的绝佳方式。出于这个原因，喷灌系统通常用于高价值作物，例如果园或沙拉蔬菜，这是出于次要原因，例如在炎热天气期间降温或防止突然结冰期间寒冷天气造成的损害。
+  
 
 <br>
  <img style="float: center;" width=500 src="IMAGE/spring6.jpeg">

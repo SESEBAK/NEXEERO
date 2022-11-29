@@ -1,84 +1,81 @@
-# What Is Sprinkler Irrigation?
+# Qu'est-ce que l'irrigation par aspersion ?
 
-Sprinkler irrigation is any irrigation that uses a pressurized system to apply water in a method that mimics rainfall to the soil surface.
+L'irrigation par aspersion est toute irrigation qui utilise un système sous pression pour appliquer de l'eau dans une méthode qui imite les précipitations à la surface du sol.
 
-Water is delivered to a farmer’s fields through a network of pipes or hoses, and the water is usually pressurized using a pumping system. Irrigation sprinkler systems may be temporary, movable or permanent.
+L'eau est acheminée vers les champs d'un agriculteur par un réseau de tuyaux ou de tuyaux, et l'eau est généralement pressurisée à l'aide d'un système de pompage. Les systèmes de gicleurs d'irrigation peuvent être temporaires, mobiles ou permanents.
 
-In the United States, nearly 4.4 million acres are irrigated via some method of spray, aka sprinkler irrigation, not including center pivot or micro-spray irrigation, according to the 2018 United States Department of Agriculture (USDA) report “Sprinkler Irrigation in the Fields and Open.”
+Aux États-Unis, près de 4,4 millions d'acres sont irrigués par une méthode de pulvérisation, c'est-à-dire l'irrigation par aspersion, sans compter l'irrigation par pivot central ou par micro-aspersion, selon le rapport 2018 du Département de l'agriculture des États-Unis (USDA) "L'irrigation par aspersion dans les champs". et ouvert.
 
-Sprinkler irrigation is widely used because it is versatile, adaptable to almost all crops, and affordable. But it’s not a perfect irrigation system. Spray irrigation is one of the most inefficient watering methods, wasting approximately 30 to 50% of the water applied through run-off and evaporation. Only flood irrigation is a more potentially inefficient method of irrigation crops, whereas systems like drip irrigation and sub-irrigation use much less water to achieve effective application rates.
+L'irrigation par aspersion est largement utilisée car elle est polyvalente, adaptable à presque toutes les cultures et abordable. Mais ce n'est pas un système d'irrigation parfait. L'irrigation par aspersion est l'une des méthodes d'arrosage les plus inefficaces, gaspillant environ 30 à 50 % de l'eau appliquée par ruissellement et évaporation. Seule l'irrigation par inondation est une méthode potentiellement inefficace d'irrigation des cultures, alors que les systèmes comme l'irrigation goutte à goutte et l'irrigation souterraine utilisent beaucoup moins d'eau pour obtenir des taux d'application efficaces.
 
 <br>
  <img style="float: center;" width=600 src="IMAGE/spring4.jpg">
 
-This is an essential consideration because worldwide, farmers are grappling with increasing drought, higher temperatures, and growing populations sucking up the planet’s finite water resources and resulting in restricted water access for agricultural purposes. According to a recently published study, water scarcity is predicted to become a more significant issue in more than 80% of the world’s croplands by 2050.
+Il s'agit d'une considération essentielle car, dans le monde entier, les agriculteurs sont aux prises avec une sécheresse croissante, des températures plus élevées et une population croissante qui aspirent les ressources en eau limitées de la planète et entraînent un accès restreint à l'eau à des fins agricoles. Selon une étude récemment publiée, la pénurie d'eau devrait devenir un problème plus important dans plus de 80 % des terres cultivées du monde d'ici 2050.
 
-As farmers plan for their future, carefully considering the type of irrigation system they employ and exploring ways to maximize the efficiency of the system they install is becoming an increasingly critical component of successful farm management.
+Alors que les agriculteurs planifient leur avenir, examiner attentivement le type de système d'irrigation qu'ils utilisent et explorer les moyens de maximiser l'efficacité du système qu'ils installent devient un élément de plus en plus essentiel d'une gestion agricole réussie.
 
-# 1. TYPES OF SPRINGLER IRRIGATION SYSTEMS
+# 1. TYPES DE SYSTÈMES D'IRRIGATION SPRINGLER
 
-Several different types of spray irrigation systems are commonly employed for farm irrigation methods.
+Plusieurs types différents de systèmes d'irrigation par aspersion sont couramment utilisés pour les méthodes d'irrigation agricole.
 
- ## Cable Tow System
-A cable-tow system is a traveling gun irrigation system. It comprises a large sprinkler head connected to a flexible hose that runs to the water source. The sprinkler is installed on a wheeled cart and is propelled through the field by a cable that winds itself around a drum mounted on the cart.
+ ## Système de remorquage par câble
+Un système de remorquage par câble est un système d'irrigation à pistolet mobile. Il comprend une grande tête d'arrosage reliée à un tuyau flexible qui se dirige vers la source d'eau. L'arroseur est installé sur un chariot à roues et est propulsé à travers le champ par un câble qui s'enroule autour d'un tambour monté sur le chariot.
 
-Cable tow systems are helpful for many different crops but require a cleared lane to travel down and a stationary object at the end of the field, like a tractor, as an anchor.
-Sprinkler System Traveling
+Les systèmes de remorquage par câble sont utiles pour de nombreuses cultures différentes, mais nécessitent une voie dégagée pour descendre et un objet stationnaire à l'extrémité du champ, comme un tracteur, comme ancre.
+Système de gicleurs
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring8.jpg">
 
 
- ## Hose-Pull Traveler System
-A hose-pull traveler is similar to the cable tow but does not require a cable or a stationary object as an anchor. A hose-pull traveler irrigation system uses a wheeled cart installed with a gun-type sprinkler and a semi-rigid polyethylene hose that winds up on a large reel mounted on a second wheeled cart.
+## Système de voyage à tirage de tuyau
+Un voyageur à tirage par tuyau est similaire au câble de remorquage mais ne nécessite pas de câble ou d'objet fixe comme ancre. Un système d'irrigation itinérant à tirette utilise un chariot à roues installé avec un arroseur de type pistolet et un tuyau en polyéthylène semi-rigide qui s'enroule sur un grand dévidoir monté sur un deuxième chariot à roues.
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring9.webp">
 
- ## Solid and Permanent Set Irrigation
-Solid set irrigation systems are made up of evenly-spaced sprinkler heads mounted on risers along a length of pipe. They typically use impact sprinkler heads, although different types of sprinkler heads may be installed depending on the crop requirement. The line is above ground and is movable. These systems are most commonly used on smaller farms or high-value crops such as vegetables. Spacing and spray patterns are easily adjusted by switching out different spray heads or changing the space between risers.
+ ## Irrigation solide et permanente
+Les systèmes d'irrigation à ensemble solide sont constitués de têtes d'arrosage régulièrement espacées montées sur des colonnes montantes le long d'une longueur de tuyau. Ils utilisent généralement des têtes d'arrosage à impact, bien que différents types de têtes d'arrosage puissent être installés en fonction des besoins de la culture. La ligne est au-dessus du sol et est mobile. Ces systèmes sont le plus souvent utilisés dans les petites exploitations ou les cultures de grande valeur telles que les légumes. L'espacement et les modèles de pulvérisation sont facilement ajustés en changeant différentes têtes de pulvérisation ou en modifiant l'espace entre les colonnes montantes.
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring10.jpeg">
 
- ## Micro-Sprinkler Systems
-Micro-sprinkler systems are a low-pressure type of spray irrigation. However, they are typically classified together with drip irrigation because the system for delivery is the same. Micro-sprinklers are small, low-pressure sprinklers inserted into a small, typical ½-inch diameter mainline tube.
+ ## Systèmes de micro-asperseurs
+Les systèmes de micro-aspersion sont un type d'irrigation par pulvérisation à basse pression. Cependant, ils sont généralement classés avec l'irrigation goutte à goutte car le système de distribution est le même. Les micro-asperseurs sont de petits arroseurs à basse pression insérés dans un petit tube principal typique de ½ pouce de diamètre.
 
-While sprinkler heads can be switched to adjust droplet size and spray, impact sprinklers aren’t utilized in micro-sprinkler systems because the system doesn’t deliver enough water pressure to pressurize an impact sprinkler.
+Bien que les têtes de gicleurs puissent être commutées pour ajuster la taille des gouttelettes et la pulvérisation, les gicleurs à impact ne sont pas utilisés dans les systèmes de micro-gicleurs car le système ne fournit pas suffisamment de pression d'eau pour pressuriser un gicleur à impact.
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring11.jpg">
 
- ## Center Pivot Irrigation
-Center pivot irrigation systems are among the most commonly used irrigation systems, especially in the United States. They propel themselves around a central pivot point, creating the circular green fields standard throughout the Midwest.
+ ## Irrigation à pivot central
+Les systèmes d'irrigation à pivot central sont parmi les systèmes d'irrigation les plus couramment utilisés, en particulier aux États-Unis. Ils se propulsent autour d'un point de pivot central, créant la norme des champs verts circulaires dans tout le Midwest.
 
-Center pivot systems are quite large, capable of irrigating 125 to 130 acres. They are comprised of a lateral, stainless steel pipe mounted across mobile truss structures. Sprinkler heads are mounted along the length of the line, either directly from the overhead pipe or hanging down from lateral pipes. Center pivot systems are best used in circular fields as areas outside the circular pattern will not be irrigated.
+Les systèmes à pivot central sont assez grands, capables d'irriguer de 125 à 130 acres. Ils sont constitués d'un tuyau latéral en acier inoxydable monté sur des structures en treillis mobiles. Les têtes de gicleurs sont montées sur toute la longueur de la ligne, soit directement à partir du tuyau aérien, soit suspendues à des tuyaux latéraux. Les systèmes à pivot central sont mieux utilisés dans les champs circulaires car les zones en dehors du modèle circulaire ne seront pas irriguées.
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring12.jpg">
 
 
- ## Linear Move Irrigation
-A linear move irrigation system is similar to a center pivot system, but rather than pivoting around a central point, it moves laterally through a field. They work in a square or rectangular-shaped field.
-The Pros of a Sprinkler Irrigation
-Flexible for Many Crops and Farms
+ ## Irrigation à mouvement linéaire
+Un système d'irrigation à mouvement linéaire est similaire à un système à pivot central, mais plutôt que de pivoter autour d'un point central, il se déplace latéralement à travers un champ. Ils travaillent dans un champ de forme carrée ou rectangulaire.
 
 <br>
 <img style="float: center;" width=500 src="IMAGE/spring13.jpg">
 
 
 
+# 2. AVANTAGES DES ARROSEURS
 
-# 2. PROS OF SPRINKLERS
+  _ Les systèmes d'irrigation par aspersion sont flexibles pour de nombreuses cultures, régions et types de sols différents. Ils peuvent être conçus pour correspondre aux dimensions d'un champ et s'adapter aux collines et aux terrains accidentés, des problèmes qui défient d'autres systèmes d'irrigation comme l'irrigation par sillons. En échangeant différents types de têtes ou de buses d'arrosage, en modifiant la hauteur des colonnes montantes sur lesquelles les arroseurs sont montés ou en ajustant la pression de l'eau ou même la taille des tuyaux, les agriculteurs peuvent modifier le diamètre et l'impact de la façon dont l'eau est appliquée aux cultures et à la surface du sol. .
 
-  _ Sprinkler irrigation systems are flexible for many different crops, regions, and soil types. They can be designed to match the dimensions of a field and accommodate hills and uneven terrain, issues that challenge other irrigation systems like furrow irrigation. By swapping out different types of sprinkler heads or nozzles, changing the height of the risers sprinklers are mounted on, or adjusting the water pressure or even pipe size, farmers can change the diameter and impact of how water is applied to crops and the soil surface.
+  _ Peut être utilisé pour appliquer des engrais et des produits chimiques
 
-  _ Can Be Used to Apply Fertilizers and Chemicals
+  _ Les agriculteurs peuvent facilement utiliser leur système d'irrigation par aspersion pour fertiliser ou appliquer des produits chimiques en incluant un composant de fertirrigation ou de chimigation dans leur système d'irrigation.
+Fournit beaucoup d'eau en cas de besoin
 
-  _ Farmers can easily use their sprinkler irrigation system to fertilize or apply chemicals by including a fertigation or chemigation component in their irrigation system.
-Delivers a Lot of Water When Needed
-
-  _ Sprinkler irrigation systems are an excellent way to deliver much water when it is most needed uniformly across an area. For this reason, sprinkler irrigation systems are often set up in high-value crops like orchards or salad greens for secondary reasons—like cooling during hot weather or preventing cold weather damage during sudden freezes.
+  _ Les systèmes d'irrigation par aspersion sont un excellent moyen de fournir une grande quantité d'eau au moment où elle est le plus nécessaire de manière uniforme sur une zone. Pour cette raison, les systèmes d'irrigation par aspersion sont souvent installés dans des cultures de grande valeur comme les vergers ou les salades vertes pour des raisons secondaires, comme le refroidissement par temps chaud ou la prévention des dommages par temps froid lors de gels soudains.
 
 <br>
  <img style="float: center;" width=500 src="IMAGE/spring6.jpeg">
