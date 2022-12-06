@@ -10,7 +10,7 @@
     - [Practice](PM/3dprinting/practice.md)
   -  4. LASER CUTTING
     - [Basics](https://www.nexmaker.com/doc/6laser_cutter/basic.html)
-    - [Practice](https://www.nexmaker.com/doc/6laser_cutter/Design_guide.html)
+    - [Practice](PM/Lasercutting/practice.md)
   -  5. ARDUINO
     - [Theory](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
     - [Practice](PM/Arduino/practice.md)
