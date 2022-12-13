@@ -7,4 +7,4 @@ From that common goal we came to a decision of designing or better some of the d
 
 
 <br>
- <img style="float: center;" width=500 src="IMAGE/springler.webp">
+ <img style="float: center;" width=500 src="IMAGE/sprinkler.webp">
