@@ -1,7 +1,12 @@
-There are many different types of sprinkler heads that can adjust the volume, spray pattern and even flow rate of water application.
+# INNOVATION POINTS
 
-<br>
- <img style="float: center;" width=800 src="IMAGE/spring3.jpg">
+ ## DESIGN CONCEPT
+  Our Design concept: a devise that senses the moisture of the soil, waters it when needed and sends signals to the owner(s) that it's watered.
 
- <br>
- <img style="float: center;" width=800 src="IMAGE/drawing.jpg">
+
+ ## 1. Innovation Point 1: 
+
+
+
+
+ ## 2. Innovation Point 2: 

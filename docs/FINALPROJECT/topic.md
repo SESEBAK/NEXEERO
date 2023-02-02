@@ -1,10 +1,8 @@
-# OUR TOPIC: SPRINKLER IRRIGATION
+# OUR TOPIC: AUTOMATIC WATERING SYSTEM (FOR PLANTS)
+From that common goal we came to a decision of designing an Automated Water Irrigation System for small Gardens. We want to bring in a devise that is going to sense the moisture of the soil then send signals for the plant or garden to be refreshed. 
 
-One of the ways to Solve World Hunger is by increasing Agricultural Output.
-As Nexeero Group, our goal is to contribute to the Zero Hunger Project by bringing solutions to some agriculture issues like Irrigation, faced by Least developed countries. 
-
-From that common goal we came to a decision of designing or better some of the devices used in agricultureespecially in micro-irrigation like agriculture sprinklers. We want to look at how we can innovate them in a way that they can be highly effective, easily accessible by the lowly hence helping in bettering LDCs irrigation issues.
-
+Through technologies we have been studying like Arduino, we will be able to connect some elements that are going to help in building this system.  
 
 <br>
  <img style="float: center;" width=500 src="IMAGE/sprinkler.webp">
+

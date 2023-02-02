@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 ####        PROJECT MANAGEMENT
-- DAILY HOMEWORK
+- DAILY HOMEWORL
   - [1. HOW TO BUILD WEB](PM/Howtobuild/githubpage.md)
   -  2. CAD DESIGN
     - [Fusion 360](PM/CAD/installcad.md)
@@ -19,10 +19,11 @@
     - [Practice](PM/Programming/practice.md)
 
 - FINAL PROJECT
+  - [SDG](FINALPROJECT/designgoal.md)
   - [Topic](FINALPROJECT/topic.md)
+  - [User Research](FINALPROJECT/user.md)
   - [Market](FINALPROJECT/market.md)
   - [Innovation](FINALPROJECT/innovation.md)
-  - Design CAD
-    - How to Design
-    - How to make
-  - 3D Printing
+  - [Design](FINALPROJECT/design.md)
+  - [Key Technology](FINALPROJECT/technology.md)
+  - [Experimentation](FINALPROJECT/Experimentation.md)
