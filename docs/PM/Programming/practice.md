@@ -1,4 +1,4 @@
-# In-class Practice
+# 1. In-class Practice
 
 <br>
 <img style="float: center;" width=900 src="IMAGE/processing.png">
@@ -31,7 +31,7 @@
   
      }
 
-# Homework: Snake Game 
+# 2. Homework: Snake Game 
 <br>
 <img style="float: center;" width=900 src="IMAGE/snake.png">
 
@@ -235,3 +235,203 @@
      float slime=(sin(radians((((time +(255*percent)) % 255)/255)*360)))*255;
      return slime;
      }
+
+# 3. Group Exercise: Mouse Interaction
+STEP 1: Setting up a tab for the player(mouse) with below code:
+           class Player {
+            //props
+           float x,y,w,h;
+ 
+           //constructor
+            Player() {
+            x = width/2;
+            y = height/2;
+            w = 100;
+            h = 100;
+           }
+           //methods
+           void update(){
+  
+           }
+  
+           void display(){
+           fill(255,0,0);
+            ellipse(x,y,w,h);
+           }
+          }
+
+<br>
+<img style="float: center;" width=500 src="IMAGE/proc1.png">
+
+STEP 2: setting up the mouse movement
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/proc2.png">
+
+STEP 3: Adding another tab for the other circle
+                        class Thing {
+                         //props
+                         float x,y,w,h,speedX,speedY;
+                         color c;
+
+                //constructor
+                Thing() {
+                x = random(100, width-100);
+                y = random(100, height-100);
+                w = 200;
+                h = 200;
+                speedX = random(-3,3);
+                speedY = random(-3,3);
+                c = color(random(255), random(255), random(255));
+                }
+                //methods
+               void update(){
+                 x += speedX;
+                 y += speedY;
+                }
+  
+               void display(){
+                fill(c);
+                ellipse(x,y,w,h);
+               }
+              }
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/proc4.png">
+
+STEP 4: Setting a change of background color when the circles intersect
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/proc5.png">
+
+STEP 5: Reducing the big circle from 200 to 50, and Adding 10 more circles. The red circle intercept the 10 small circles as they do a straight horizontal fall. 
+
+<br>
+<img style="float: center;" width=700 src="IMAGE/proc6.png">
+
+STEP 6: FINAL OUTCOME
+
+<br>
+<video style="float:center;" width="900" height="540" controls autoplay="autoplay">
+  <source src="VIDEOS/proc1.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>  
+
+## FINAL CODES
+### TAB 1: SKETCH
+        Player p;
+         //Thing t;
+         Thing[] things;
+         void setup (){
+          size(800,600);
+          p = new Player();
+           //t = new Thing();
+           things = new Thing[10];
+          for(int i = 0; i < things.length; i++){
+          things[i] = new Thing();
+          }
+         }
+
+            void draw(){
+            clearBackground();
+            p.update();
+            p.display();
+            for(int i=0; i < things.length; i++){
+            things[i].update();
+            things[i].display();
+            if (circleIntersect(p,things[i]) == true){
+            fill(0,255,0,100);
+            rect(0,0,width,height);
+             things[i].caught();
+            }
+          }
+         }
+
+             void clearBackground(){
+              fill(200,100);
+              rect(0,0,width,height);
+             } 
+
+             boolean circleIntersect(Player a, Thing b){
+              float sumOfRadii = a.w/2 + b.w/2;
+             float distOfCenters = dist(a.x,a.y,b.x,b.y);
+              if(distOfCenters < sumOfRadii) {
+               return true;
+              } else {
+              return false;
+             }
+            }
+
+
+### TAB 2: PLAYER
+          class Player {
+         //props
+         float x,y,w,h;
+ 
+          //constructor
+          Player() {
+            x = width/2;
+            y = height/2;
+            w = 100;
+            h = 100;
+         }
+          //methods
+         void update(){
+            x = mouseX;
+            y = mouseY;
+         }
+  
+          void display(){
+          fill(255,0,0);
+          ellipse(x,y,w,h);
+         }
+         }
+
+### TAB 3: THING
+         class Thing {
+          //props
+         float x,y,w,h,speedX,speedY;
+          color c;
+          //constructor
+          Thing(){
+             x = random(100, width-100);
+             y = random(100, height-100);
+             w = 50;
+             h = 50;
+             speedX = 0;//random(-3,3);
+             speedY = 5;//random(-3,3);
+             c = color(random(255), random(255), random(255));
+          }
+           //methods
+           void update(){
+            x += speedX;
+            y += speedY;
+           checkBounds();
+          }
+  
+           void display(){
+             fill(c);
+             ellipse(x,y,w,h);
+          }
+  
+           void caught(){
+            speedX = 0;
+            speedY = 0;
+            x = -1000;
+          }
+           void reset(){
+            x = random(100, width-100);
+            y = 0;
+            speedX = 0;//random(-3,3);
+            speedY = random(-3,7);
+            c = color(random(255), random(255), random(255));
+ 
+          }
+            void checkBounds(){
+              if(x<-w){x = width;}
+              if(x>width){x=-w;}
+              if(y<-h){y=height;}
+              if(y>height){y=-h;}
+          } 
+        }
