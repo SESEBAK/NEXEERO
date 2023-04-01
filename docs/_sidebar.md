@@ -24,6 +24,5 @@
   - [User Research](FINALPROJECT/user.md)
   - [Market](FINALPROJECT/market.md)
   - [Innovation](FINALPROJECT/innovation.md)
-  - [Design](FINALPROJECT/design.md)
   - [Key Technology](FINALPROJECT/technology.md)
-  - [Experimentation](FINALPROJECT/Experimentation.md)
+  - [How To Make](FINALPROJECT/howtomake.md)

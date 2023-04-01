@@ -224,3 +224,48 @@ Your browser does not support the video tag.
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>  
+
+# 4. SERVO DISTANCE INDICATOR
+- COMPONENTS
+<br>
+<img style="float: center;" width=500 src="IMAGE/arduino2.jpg">
+
+<br>
+<img style="float: center;" width=500 src="IMAGE/arduino3.jpg">
+
+<br>
+<img style="float: center;" width=500 src="IMAGE/servodistance.jpg">
+
+          #include <Servo.h>
+
+          #include <NewPing.h>
+
+         const int ServoPin = 10;
+         const int TriggerPin = 6;
+         const int EchoPin = 7;
+
+         // 100 = maxDistance
+         NewPing sonar (TriggerPin, EchoPin, 100);
+         Servo servo;
+
+         void setup() {
+         Serial.begin(9600);
+         servo.attach(ServoPin);
+         }
+
+         void loop() {
+         int cm = sonar.ping_cm();
+         Serial.println(cm);
+
+         int angle = map(cm, 2, 15, 15, 100);
+         servo.write(angle);
+
+          delay(50);
+         }
+
+<br>
+<video style="float:center;" width="900" height="540" controls autoplay="autoplay">
+  <source src="VIDEOS/arduino2.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>  

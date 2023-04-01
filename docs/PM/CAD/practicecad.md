@@ -26,7 +26,7 @@ We then went ahead to explore some more options of the software by designing a p
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4382a496913e3de4c2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # DETAILED WORKS
-Our 1ST detailed work is a bicycle. 
+## - BICYCLE WITH MOTION
 
 <br>
  <img style="float: center;" width=700 src="IMAGE/bic1.png">
@@ -53,7 +53,7 @@ Your browser does not support the video tag.
  <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430f037449c3220f52?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
- Our 2nd detailed work is a door hinge
+## - DOOR HINGE WITH DISASSEMBLING
 
 <br>
  <img style="float: center;" width=700 src="IMAGE/hing1.png">
@@ -68,3 +68,26 @@ Your browser does not support the video tag.
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video> 
+
+## - TOOL WITH TECHNICAL DRAWING
+<br>
+ <img style="float: center;" width=700 src="IMAGE/tool.png"> 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e39a54484d30ea549?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+ 
+
+## - WORM GEAR WITH MOTION AND TECHNICAL DRAWING
+<br>
+ <img style="float: center;" width=700 src="IMAGE/tool.png"> 
+
+
+<br>
+<video style="float:center;" width="720" height="340" controls autoplay="autoplay">
+  <source src="VIDEOS/hinge.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e0de6831ed29af397?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
