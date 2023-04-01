@@ -8,18 +8,23 @@
   - 3。 3D 打印
     - [理论](CHINESE/PM/3dprinting/theory.md)
     - [练习](CHINESE/PM/3dprinting/practice.md)
+    - [后期处理](CHINESE/PM/3dprinting/postprocessing.md)
   - 4。激光切割
     - [基础知识](https://www.nexmaker.com/doc/6laser_cutter/basic.html)
-    - [实践](https://www.nexmaker.com/doc/6laser_cutter/Design_guide.html)
+    - [实践](CHINESE/PM/Lasercutting/practice.md)
   - 5。阿杜诺
     - [理论](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
-    - 练习
+    - [练习](CHINESE/PM/Arduino/practice.md)
+  - 6。编程
+   - [理论](https://www.nexmaker.com/doc/10Interface-application-programming/processing.html)
+   - [练习](CHINESE/PM/Programming/practice.md)
 
 
-- 最终项目
-  - [主题](CHINESE/FINALPROJECT/topic.md)
-  - [创新](CHINESE/FINALPROJECT/market.md)
-  - [市场](CHINESE/FINALPROJECT/innovation.md)
-  -  设计CAD
-   - [如何设计]()
+ - 最终项目
+   - [SDG]()
+   - [话题]()
+   - [用户研究]()
+   - [市场]()
+   - [创新]()
+   - [关键技术]()
    - [怎么做]()

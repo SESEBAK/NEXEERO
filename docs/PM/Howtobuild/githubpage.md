@@ -107,25 +107,35 @@
 
    ### 5.  Add sidebar and navbar
   - SIDEBAR 
-              <!-- 侧边栏 docs/_sidebar.md -->
-               - Team introduce
-               - Daily homework
-               - [1. PM]()
-               - [how to build web](class/1pm/1pm-web.md)
-               - introduce team
-               - introduce finial project
-               - [2. arduino basic]()
-               - [3. CAD]()
-               - [4. 3D printing]()
-               - Final project
-               - topic
-               - innovation
-               - market
-               - how to design 
-               - how to make
-               - SDGs
+              - DAILY HOMEWORL
+             - [1. HOW TO BUILD WEB]()
+             -  2. CAD DESIGN
+                - [Fusion 360]()
+                - [Practices]()
+             -  3. 3D PRINTING
+                - [Theory]()
+                - [Practice]()
+                - [Postprocessing]()
+             -  4. LASER CUTTING
+                - [Basics]()
+                - [Practice]()
+            -  5. ARDUINO
+                - [Theory]()
+                - [Practice]()
+            -  6. PROGRAMMING 
+                - [Theory]()
+                - [Practice]()
 
- - open the Index file go to window.$docsify then add
+             - FINAL PROJECT
+                - [SDG]()
+                - [Topic]()
+                - [User Research]()
+                - [Market]()
+                - [Innovation]()
+                - [Key Technology]()
+                - [How To Make]()
+
+      - open the Index file go to window.$docsify then add
 
               loadSidebar: true,
 
@@ -145,16 +155,17 @@ Then insert script into document just like the official plugins's usage
 
 Creat File Navbar.md
 
-             <!-- 侧边栏 docs/_navbar.md -->
-                - [VISION]()
+             - [VISION](INTRO/NAVBAR/Vision.md)
 
-                - [TEAM]()
 
-                - [LANGUAGE]()
 
-        - [:us:]()
-        - [CN:cn:](CN/)
-        - ع:saudi_arabia:
+             - [TEAM](INTRO/NAVBAR/Team.md)
+
+
+
+             - LANGUAGE
+              - [FRENCH](/FRENCH/)
+              - [CHINESE](/CHINESE/)
 
 open the Index file go to window.$docsify then add
 
@@ -247,6 +258,83 @@ Get a template you would want to use [Here](http://bestjquery.com/tutorial/our-t
 
 <br>
 <img style="float: center;" width=700 src="IMAGE/language2.png">
+
+       <div class="demo">
+       <div class="container">
+       <div class="row text-center">
+       <h1 class="white" style="text-align:center; font-size:40px;">MEET THE TEAM</h1>
+       </div>
+
+       <div class="row">
+       <div class="col-md-4 col-sm-6">
+       <div class="our-team">
+       <div class="pic">
+       <img src="IMAGE/rema.jpg" alt=""/>
+       </div>
+       <div class="team-content">
+       <h3 class="title">Raoul REMA</h3>
+       <span class="post">Project Developper</span>
+       <p class="description" style="text-align:justify;">
+                                
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+       <div class="col-md-4 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="IMAGE/serena.jpg" alt=""/>
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Serena BAKANIBONA</h3>
+                            <span class="post">Web Designer</span>
+                            <p class="description">
+                                
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+      <div class="demo">
+        <div class="container">
+            
+
+          <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="IMAGE/lerato.JPG" alt=""/>
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Lerato LESAOANA</h3>
+                            <span class="post"> Team Researcher</span>
+                            <p class="description">
+                                  
+                        </div>
+                    </div>
+                </div>
+
+          <div class="col-md-4 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="IMAGE/hamzah.JPG" alt=""/>
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Hamzah ALKUREIBY</h3>
+                            <span class="post">Team Researcher</span>
+                            <p class="description">
+                           
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
 
 ## D. LANGUAGE

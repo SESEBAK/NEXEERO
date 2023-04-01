@@ -57,7 +57,7 @@ Your browser does not support the video tag.
  <img style="float: center;" width=700 src="IMAGE/hing1.png">
 
 <br>
- <img style="float: center;" width=700 src="IMAGE/hing2.png"> 
+ <img style="float: center;" width=700 src="IMAGE/hinge2.png"> 
 
 
 <br>
@@ -66,3 +66,24 @@ Your browser does not support the video tag.
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video> 
+
+## - 带有技术图纸的工具
+<br>
+ <img style="float: center;" width=700 src="IMAGE/tool.png"> 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e39a54484d30ea549?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+ 
+
+## - 带运动和技术图纸的蜗轮
+<br>
+ <img style="float: center;" width=700 src="IMAGE/tool.png"> 
+
+
+<br>
+<video style="float:center;" width="720" height="340" controls autoplay="autoplay">
+  <source src="VIDEOS/hinge.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e0de6831ed29af397?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>

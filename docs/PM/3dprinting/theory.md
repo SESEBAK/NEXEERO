@@ -1,3 +1,4 @@
+# - THEORY AND STEPS
 <br>
  <img style="float: center;" width=700 src="IMAGE/3d.png">
 
@@ -58,12 +59,6 @@ If you are using a 3D Printing Services Provider, you don’t have to worry abou
 
 
 The printing machines are made of many moving and intricate parts, and they demand correct maintenance and calibration to produce successful prints. Most 3D Printers do not need to be monitored after the printing has begun. The machine will follow the automated G-code instructions, so as long as there is no software error or the machine doesn’t run out of raw material, there should not be a issues during the printing process.
-
-# Step Five – Removal
-Removing the finished parts from the printer will vary for different 3D printing technologies. In some case, like for Desktop machines, it is as simple as separating the print from the build platform. For some industrial 3D printers, the removal of a part is a technical process that requires professional skills and specialized equipment within a controlled environment.
-
-<br>
- <img style="float: center;" width=400 src="IMAGE/postp.png">
 
 
 # REFERENCES

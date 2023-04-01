@@ -7,18 +7,24 @@
   - 3. IMPRESSION EN 3D
     - [Théorie](FRENCH/PM/3dprinting/theory.md)
     - [Pratique](FRENCH/PM/3dprinting/practice.md)
+    - [Post Proces](FRENCH/PM/3dprinting/postprocessing.md)
   - 4. DÉCOUPE AU LASER
     - [Les bases](https://www.nexmaker.com/doc/6laser_cutter/basic.html)
-    - [Pratique](https://www.nexmaker.com/doc/6laser_cutter/Design_guide.html)
+    - [Pratique](FRENCH/PM/Lasercutting/practice.md)
   - 5. ARDUINO
     - [Théorie](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
-    - Pratique
+    - [Pratique](FRENCH/PM/Arduino/practice.md)
+  - 6. PROCESSEUR 
+    - [Theorie](https://www.nexmaker.com/doc/10Interface-application-programming/processing.html)
+    - [Practique](FRENCH/PM/Programming/practice.md)
 
 
-- [PROJET FINAL]
+
+- FINAL PROJECT
+  - [SDG](FRENCH/FINALPROJECT/designgoal.md)
   - [Sujet](FRENCH/FINALPROJECT/topic.md)
-  - [Marché](FRENCH/FINALPROJECT/market.md)
+  - [Recherche](FRENCH/FINALPROJECT/user.md)
+  - [Marche](FRENCH/FINALPROJECT/market.md)
   - [Innovation](FRENCH/FINALPROJECT/innovation.md)
-  - [Conception CAO]()
-   - [Comment concevoir]()
-   - [Comment faire]()
+  - [Technologie](FRENCH/FINALPROJECT/technology.md)
+  - [Comment Faire](FRENCH/FINALPROJECT/howtomake.md)

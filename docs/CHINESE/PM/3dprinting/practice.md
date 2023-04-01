@@ -26,5 +26,10 @@
 <br>
  <img style="float: center;" width=500 src="IMAGE/knob2.png">
 
-
+ # 4. 盆栽
+我们的第四版画是盆栽植物。这是我们根据最终项目进行的实验之一。不幸的是，结果并不太好。
+<br>
+ <img style="float: center;" width=400 src="IMAGE/pot.jpg">
+<br>
+ <img style="float: center;" width=400 src="IMAGE/pot2.jpg">
 

@@ -1,4 +1,4 @@
-# 1ÈRE SEMAINE Pratique
+
 ### 1. BUREAU EN BOIS
 Nous avons commencé par pratiquer la Fusion avec des formes régulières. Notre premier travail était un bureau.
 
@@ -25,8 +25,8 @@ Nous avons ensuite exploré d'autres options du logiciel en concevant un porte-s
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4382a496913e3de4c2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# TRAVAIL DETAILLE
-Notre travail détaillé est un vélo.
+### 6. VELO
+- Notre 1er travail détaillé est un vélo.
 
 <br>
  <img style="float: center;" width=700 src="IMAGE/bic1.png">
@@ -52,12 +52,13 @@ Your browser does not support the video tag.
 
  <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430f037449c3220f52?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+### 7. CHARNIERE DE PORTE
 
  <br>
  <img style="float: center;" width=700 src="IMAGE/hing1.png">
 
 <br>
- <img style="float: center;" width=700 src="IMAGE/hing2.png"> 
+ <img style="float: center;" width=700 src="IMAGE/hinge2.png"> 
 
 
 <br>
@@ -66,3 +67,27 @@ Your browser does not support the video tag.
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video> 
+
+### 8. OBJECT AVEC DESSIN
+<br>
+ <img style="float: center;" width=700 src="IMAGE/tool.png"> 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e39a54484d30ea549?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+ 
+
+### 9. VIS SANS FIN AVEC DESSIN ET MOTION
+<br>
+ <img style="float: center;" width=700 src="IMAGE/tool.png"> 
+
+
+<br>
+<video style="float:center;" width="720" height="340" controls autoplay="autoplay">
+  <source src="VIDEOS/hinge.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH512d4QTec90decfa6e0de6831ed29af397?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### 10. POT DE PLANTE
+

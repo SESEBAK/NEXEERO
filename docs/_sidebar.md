@@ -8,6 +8,7 @@
   -  3. 3D PRINTING
     - [Theory](PM/3dprinting/theory.md)
     - [Practice](PM/3dprinting/practice.md)
+    - [Postprocessing](PM/3dprinting/postprocessing.md)
   -  4. LASER CUTTING
     - [Basics](https://www.nexmaker.com/doc/6laser_cutter/basic.html)
     - [Practice](PM/Lasercutting/practice.md)

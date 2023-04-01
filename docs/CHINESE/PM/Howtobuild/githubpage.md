@@ -107,22 +107,33 @@
  ### 5.添加侧边栏和导航栏
   - SIDEBAR 
               <!-- 侧边栏 docs/_sidebar.md -->
-               - Team introduce
-               - Daily homework
-               - [1. PM]()
-               - [how to build web](class/1pm/1pm-web.md)
-               - introduce team
-               - introduce finial project
-               - [2. arduino basic]()
-               - [3. CAD]()
-               - [4. 3D printing]()
-               - Final project
-               - topic
-               - innovation
-               - market
-               - how to design 
-               - how to make
-               - SDGs
+               - 日常作业
+             - [1。如何建立网站]()
+             - 2。 CAD 设计
+                 - [Fusion 360]()
+                 - [练习]()
+             - 3。 3D 打印
+                 - [理论]()
+                 - [练习]()
+                 - [后期处理]()
+             - 4。激光切割
+                 - [基础知识]()
+                 - [实践]()
+             - 5。阿杜诺
+                 - [理论]()
+                 - [练习]()
+             - 6. 编程
+                 - [理论]()
+                 - [练习]()
+
+               - 最终项目
+             - [SDG]()
+             - [话题]()
+             - [用户研究]()
+             - [市场]()
+             - [创新]()
+             - [关键技术]()
+             - [怎么做]()
 
  - open the Index file go to window.$docsify then add
 
@@ -144,16 +155,17 @@
 
 创建文件 Navbar.md
 
-             <!-- 侧边栏 docs/_navbar.md -->
-                - [VISION]()
+             - [想象]()
 
-                - [TEAM]()
 
-                - [LANGUAGE]()
 
-        - [:us:]()
-        - [CN:cn:](CN/)
-        - ع:saudi_arabia:
+             - [团队]()
+
+
+             - [语]
+                - [英语]()
+                - [法语]()
+
 
 打开索引文件转到 window.$docsify 然后添加
 

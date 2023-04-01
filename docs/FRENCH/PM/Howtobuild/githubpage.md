@@ -108,22 +108,30 @@
    ### 5. Ajouter une barre latérale et une barre de navigation
   - SIDEBAR 
               <!-- 侧边栏 docs/_sidebar.md -->
-               - Team introduce
-               - Daily homework
-               - [1. PM]()
-               - [how to build web](class/1pm/1pm-web.md)
-               - introduce team
-               - introduce finial project
-               - [2. arduino basic]()
-               - [3. CAD]()
-               - [4. 3D printing]()
-               - Final project
-               - topic
-               - innovation
-               - market
-               - how to design 
-               - how to make
-               - SDGs
+               - GESTION DE PROJET
+         - [1. COMMENT CONSTRUIRE LE WEB]()
+         -  2. CONCEPTION CAD
+            - [Fusion 360]()
+            - [Pratiques]()
+         - 3. IMPRESSION EN 3D
+            - [Théorie]()
+            - [Pratique]()
+            - [Post Proces]()
+        - 4. DÉCOUPE AU LASER
+            - [Les bases]()
+            - [Pratique]()
+        - 5. ARDUINO
+            - [Théorie]()
+            - [Pratique]
+
+
+             - [PROJET FINAL]
+        - [ODD]()
+        - [Marché]()
+        - [Recherche]()
+        - [Innovation]()
+        - [Technology]()
+        - [Comment faire]()
 
  - ouvrez le fichier Index allez dans window.$docsify puis ajoutez
 
@@ -146,15 +154,17 @@ Insérez ensuite le script dans le document, tout comme l'utilisation des plugin
 Cree File Navbar.md
 
              <!-- 侧边栏 docs/_navbar.md -->
-                - [VISION]()
+               - [VISION]()
 
-                - [TEAM]()
 
-                - [LANGUAGE]()
 
-        - [:us:]()
-        - [CN:cn:](CN/)
-        - ع:saudi_arabia:
+              - [EQUIPE]()
+
+
+
+              - [LANGUAGE]()
+                - [ANGLAIS]()
+                - [CHINOIS]()
 
 ouvre l'Index file va a window.$docsify puis ajoute
 
