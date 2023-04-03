@@ -354,3 +354,7 @@ Your browser does not support the video tag.
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>  
+
+# 5. FINAL PROJECT
+
+[HERE](FINALPROJECT/technology.md) YOU WILL FIND THE LINK TO THE ARDUINO CONNECTION DETAILS OF OUR FINAL PROJECT

@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 ####        PROJECT MANAGEMENT
-- DAILY HOMEWORL
+- DAILY HOMEWORK
   - [1. HOW TO BUILD WEB](PM/Howtobuild/githubpage.md)
   -  2. CAD DESIGN
     - [Fusion 360](PM/CAD/installcad.md)

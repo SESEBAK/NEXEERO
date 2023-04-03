@@ -43,10 +43,27 @@ Your browser does not support the video tag.
  <br>
  <img style="float: center;" width=600 src="IMAGE/LC5.jpg">
 
-# ASSEMBLING
+# 装配
 <br>
 <video style="float:center;" width="720" height="340" controls autoplay="autoplay">
   <source src="VIDEOS/assembling.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
+
+# ARDUINO
+我们制作了一个 LED 电路并使用了一个传感器来检测笔记本电脑并打开 LED。
+
+ <br>
+ <img style="float: center;" width=600 src="IMAGE/laser1.jpg">
+
+ 
+ <br>
+ <img style="float: center;" width=600 src="IMAGE/laser2.jpg">
+
+ <br>
+<video style="float:center;" width="720" height="340" controls autoplay="autoplay">
+  <source src="VIDEOS/laser.mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video> 

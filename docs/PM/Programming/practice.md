@@ -1,4 +1,4 @@
-# 1. In-class Practice
+- # 1. In-class Practice
 
 <br>
 <img style="float: center;" width=900 src="IMAGE/processing.png">
@@ -435,3 +435,125 @@ Your browser does not support the video tag.
               if(y>height){y=-h;}
           } 
         }
+
+# 4. PROCESSING WITH ARDUINO
+For our demonstration of Processing communicating with Arduino: Processing controls the opening and closing of LED lamp beads, and the data of the ultrasonic sensor is sent to processing to generate background particles. 
+
+### Components and Connections
+<br>
+<img style="float: center;" width=500 src="IMAGE/process3.jpg">
+<br>
+<img style="float: center;" width=500 src="IMAGE/process4.jpg">
+
+### Arduino
+Use the Code below:
+
+               int trigPin = 11;    //Trig
+               int echoPin = 12;    //Echo
+               long duration, cm, inches;
+               void setup() {
+                pinMode(trigPin, OUTPUT);
+                pinMode(echoPin, INPUT);
+                pinMode(7, OUTPUT);  
+                Serial.begin(9600);    //start serial communication @9600 bps
+                }
+              
+              void loop(){
+                digitalWrite(trigPin, LOW);
+                delayMicroseconds(5);
+                digitalWrite(trigPin, HIGH);
+                delayMicroseconds(10);
+                digitalWrite(trigPin, LOW);
+                duration = pulseIn(echoPin, HIGH);
+                cm = (duration/2) / 29.1;
+                inches = (duration/2) / 74;
+                Serial.print("cm： ");
+                Serial.println(cm);
+                Serial.write(cm);
+                delay(1000);
+                if(Serial.available()){  //id data is available to read
+                  char val = Serial.read();
+                  if(val == 'r'){       //if r received
+                    digitalWrite(7, HIGH); //turn on 
+                    }
+                  if(val == 'b'){       //if b received
+                    digitalWrite(7, LOW); //turn on 
+                    }
+                  if(val == 'y'){       //if y received
+                    digitalWrite(5, HIGH); //turn on 
+                    }
+                  if(val == 'f'){       //if f received
+                    digitalWrite(5, LOW); //turn off 
+                    }      
+                  }
+                }
+  
+Check Arduino Code
+
+<br>
+<video style="float:center;" width="700" height="540" controls autoplay="autoplay">
+  <source src="VIDEOS/proc2.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>  
+
+### IN IDE
+Use Code below:
+
+            import controlP5.*; //import ControlP5 library
+              import processing.serial.*;
+              Serial port;
+              ControlP5 cp5; //create ControlP5 object
+              PFont font;
+              void setup(){ //same as arduino program
+                size(320, 350);    //window size, (width, height)
+                noStroke();
+                printArray(Serial.list());   //prints all available serial ports
+                background(55, 81, 126); // background color of window (r, g, b) or (0 to 255)
+                fill(255, 255, 255);               //text color (r, g, b)
+                port = new Serial(this, "COM5", 9600);  //i have connected arduino to com3, it would be different in linux and mac os
+                cp5 = new ControlP5(this);
+                font = createFont("calibri light bold", 20);    // custom fonts for buttons and title
+                cp5.addButton("open")     
+                  .setPosition(100, 100)  //x and y coordinates of upper left corner of button
+                  .setSize(120, 70)      //(width, height)
+                  .setFont(font)
+                ;   
+                cp5.addButton("close")    
+                  .setPosition(100, 200)  //x and y coordinates of upper left corner of button
+                  .setSize(120, 70)      //(width, height)
+                  .setFont(font)
+                ;
+              }
+              void draw(){  //same as loop in arduino
+                int input = 50;
+                fill(random(255), random(255), 255,random(50,200));
+                while(port.available()>0)
+                {
+                  input = port.read(); //read information from Arduino 
+                  println(input);
+                  ellipse(input*random(10),random(input)+input, 20, 20);
+                }
+                  //ellipse(random(mouseX-20,mouseX+20), random(mouseY-20,mouseY+20),10, 10);
+              }
+              void open(){
+                port.write('r');
+              }
+              void close(){
+                port.write('b');
+              }
+
+RESULTS
+<br>
+<img style="float: center;" width=500 src="IMAGE/process2.jpg">
+<br>
+<img style="float: center;" width=500 src="IMAGE/process1.jpg">
+
+<br>
+<video style="float:center;" width="700" height="540" controls autoplay="autoplay">
+  <source src="VIDEOS/proc3.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>  
+
+              

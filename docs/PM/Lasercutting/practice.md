@@ -52,6 +52,22 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video> 
 
+# ARDUINO
+We made a circuit of LEDs and used a sensor that will detect the laptop and switches on the LEDs.
+
+ <br>
+ <img style="float: center;" width=600 src="IMAGE/laser1.jpg">
+
+ 
+ <br>
+ <img style="float: center;" width=600 src="IMAGE/laser2.jpg">
+
+ <br>
+<video style="float:center;" width="720" height="340" controls autoplay="autoplay">
+  <source src="VIDEOS/laser.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video> 
 
 
 
