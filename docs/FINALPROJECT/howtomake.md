@@ -70,13 +70,13 @@ Your browser does not support the video tag.
 Your browser does not support the video tag.
 </video>
 
-# 6. FINAL OUTCOME
+# 7. FINAL OUTCOME
 <br>
  <img style="float: center;" width=700 src="IMAGE/fpro6.jpg">
 
 
 
-# 6. DEMONSTRATION
+# 8. DEMONSTRATION
 CODE
        #include <LiquidCrystal_I2C.h>
          LiquidCrystal_I2C lcd(0x27, 16, 2);
@@ -123,6 +123,14 @@ CODE
         }
       }
 
+<br>
+
+ <video style="float:center;" width="720" height="340" autoplay="autoplay">
+  <source src="VIDEOS/DEMO2.mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
 
 <br>
 
@@ -131,3 +139,6 @@ CODE
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
+
+<br>
+ <img style="float: center;" width=500 src="IMAGE/fpro.jpg">
