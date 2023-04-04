@@ -1,4 +1,19 @@
+# [CLICK HERE TO CHECK THE BELOW PAPER WE BASED OURSELVES ON](https://www.ijert.org/research/automated-plant-watering-system-IJERTCONV5IS18012.pdf)
+
+
+<br>
+ <img style="float: center;" width=500 src="IMAGE/paper.png">
+
+
+
+
+
+
+
+
+
 # TECHNOLOGIES and CONNECTIONS
+
 ## COMPONENTS
 For this Project we used;
 ###  Arduino Uno

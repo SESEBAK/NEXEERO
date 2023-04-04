@@ -20,10 +20,10 @@
     - [Practice](PM/Programming/practice.md)
 
 - FINAL PROJECT
-  - [SDG](FINALPROJECT/designgoal.md)
+  - [SDG](FINALPROJECT/sdg.md)
   - [Topic](FINALPROJECT/topic.md)
-  - [User Research](FINALPROJECT/user.md)
   - [Market](FINALPROJECT/market.md)
+  - [User Research](FINALPROJECT/user.md)
   - [Innovation](FINALPROJECT/innovation.md)
   - [Key Technology](FINALPROJECT/technology.md)
   - [How To Make](FINALPROJECT/howtomake.md)

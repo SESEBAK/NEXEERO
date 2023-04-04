@@ -25,9 +25,6 @@
  The product is an indian product with a market price of 10337 Indian Rupee which is around 850 Chinese Yuan.
 
 <br>
- <img style="float: center;" width=300 src="IMAGE/kollea2.jpeg">
+ <img style="float: center;" width=500 src="IMAGE/kollea2.jpeg">
  
- 
- 
- ## 3. Ideas and Opportunities
 

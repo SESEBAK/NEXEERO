@@ -21,10 +21,10 @@
 
 
 - FINAL PROJECT
-  - [SDG](FRENCH/FINALPROJECT/designgoal.md)
+  - [SDG](FRENCH/FINALPROJECT/sdg.md)
   - [Sujet](FRENCH/FINALPROJECT/topic.md)
-  - [Recherche](FRENCH/FINALPROJECT/user.md)
-  - [Marche](FRENCH/FINALPROJECT/market.md)
+  - [Recherche](FRENCH/FINALPROJECT/market.md)
+  - [Marche](FRENCH/FINALPROJECT/user.md)
   - [Innovation](FRENCH/FINALPROJECT/innovation.md)
   - [Technologie](FRENCH/FINALPROJECT/technology.md)
   - [Comment Faire](FRENCH/FINALPROJECT/howtomake.md)

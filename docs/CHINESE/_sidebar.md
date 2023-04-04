@@ -20,11 +20,11 @@
    - [练习](CHINESE/PM/Programming/practice.md)
 
 
- - 最终项目
-   - [SDG]()
-   - [话题]()
-   - [用户研究]()
-   - [市场]()
-   - [创新]()
-   - [关键技术]()
-   - [怎么做]()
+- 最终项目
+  - [SDG](CHINESE/FINALPROJECT/sdg.md)
+  - [话题](CHINESE/FINALPROJECT/topic.md)
+  - [用户研究](CHINESE/FINALPROJECT/market.md)
+  - [市场](CHINESE/FINALPROJECT/user.md)
+  - [创新](CHINESE/FINALPROJECT/innovation.md)
+  - [关键技术](CHINESE/FINALPROJECT/technology.md)
+  - [怎么做](CHINESE/FINALPROJECT/howtomake.md)
